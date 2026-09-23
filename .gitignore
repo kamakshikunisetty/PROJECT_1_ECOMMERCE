@@ -1,0 +1,25 @@
+# Local database
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+
+# VS Code local settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Dataset files
+data/raw/
+data/cleaned/
+
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

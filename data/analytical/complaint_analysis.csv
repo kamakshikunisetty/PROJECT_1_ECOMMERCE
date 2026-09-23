@@ -1,0 +1,485 @@
+review_id,order_id,review_score,review_text,keyword_is_complaint,complaint_category
+2d1ea46ede4050ef41e09438fba6dbe5,f0670859ef34f8878debeb534fdcd855,1,"O Produto veio correto, porém com defeito. As lentes menores estão trincadas.",True,Product Damage / Defect
+e4d0b3e15b3052d7fee6caf62af3f832,cef25f5315693af88f725bab86cd3835,2,achei o protudo bom .porem no tem muita potencia.,True,Product Quality
+fa3b5f049af7e677fe8e3b4ed431e248,2cb099a54d7344bfd05b445214be4e7f,3,Empresa cumpriu com o prazo de entrega e produto bem embalado.,True,Late Delivery
+fa3b5f049af7e677fe8e3b4ed431e248,2cb099a54d7344bfd05b445214be4e7f,3,Empresa cumpriu com o prazo de entrega e produto bem embalado.,True,Packaging
+cd206b8a1fb1b17c4d91b163ad11259c,7d88cc8f8bebb0e650d408c374a62b29,1,Já passou o prazo de entrega e nada de produto.,True,Late Delivery
+5878e1f535f15f74f5bb3a81dacedb64,c91ab67852b71357615925883e88cb8f,1,"Cor entregue errada Comprei uma manta lilás e me enviaram uma cor goiaba,odiei a compra,era um presente e acabei nao dando o presente,e joguei no lixo.Que falta de profissionalismo, pelo jeito o vendedor e bem amador.",True,Seller / Service Issue
+b1a6979a01d70c35bbf0b19c89959f6a,3323fd4055090e20288b12f59a77e9fb,1,"Compei uma pingente e nunca chegou, comprei dia 06 de janeiro hj é 08 de fervereiro e nada.",True,Product Not Received
+b28309e8253951a954123e039d3242f7,8beb59392e21af5eb9547ae1a9938d06,1,Produto não foi entregue. Não foi enviada nota fiscal. Telefone para reclamação não funciona.,True,Product Not Received
+b28309e8253951a954123e039d3242f7,8beb59392e21af5eb9547ae1a9938d06,1,Produto não foi entregue. Não foi enviada nota fiscal. Telefone para reclamação não funciona.,True,Product Damage / Defect
+728dfb1d28a9ca228ddcce273a1a6cb6,8a6b47967a3590fb66d3b0a503b7e155,1,"NÃO RECOMENDO O PRODUTO VEIO COM DEFEITO E NÃO ME DEVOLVEM O DINHEIRO. CANCELEI O PEDIDO, DEPOIS DO RECEIBIMENTO, DENTRO DOS 2 DIAS UTEIS E ATÉ AGORA NÃO FUI ATENDIDO.",True,Missing Product / Item
+728dfb1d28a9ca228ddcce273a1a6cb6,8a6b47967a3590fb66d3b0a503b7e155,1,"NÃO RECOMENDO O PRODUTO VEIO COM DEFEITO E NÃO ME DEVOLVEM O DINHEIRO. CANCELEI O PEDIDO, DEPOIS DO RECEIBIMENTO, DENTRO DOS 2 DIAS UTEIS E ATÉ AGORA NÃO FUI ATENDIDO.",True,Product Damage / Defect
+728dfb1d28a9ca228ddcce273a1a6cb6,8a6b47967a3590fb66d3b0a503b7e155,1,"NÃO RECOMENDO O PRODUTO VEIO COM DEFEITO E NÃO ME DEVOLVEM O DINHEIRO. CANCELEI O PEDIDO, DEPOIS DO RECEIBIMENTO, DENTRO DOS 2 DIAS UTEIS E ATÉ AGORA NÃO FUI ATENDIDO.",True,Cancellation / Refund
+d82f3388882fd96292f980e2a76c6f4e,da17a7a38c09dce18dcf5af9fdb27e49,3,"Meio satisfeita Fiquei mt satiafeita, mas pensei q era um produto e veio outro. Pq pela foto parecia q era uma colcha e veio no material de lençol. Mas td bem. Nao tem problema. Sempre comprei neste site e confio.",False,No Clear Complaint
+6e1d6f7414f5d57fd209e40d2284b5f2,13cde3630a835cffb389eee14cbc0e1a,3,Recebi outro produto pois oque comprei nao consta em estoque. Mas mesmo assim nao tiraram do site.,False,No Clear Complaint
+0f7dda01ef285792786f337afc122956,b85f9848a67767d36a4c39d1237b471a,1,Bom dia. Comprei 2 produtos 01 ventilador de teto que ainda não recebi. e um filtro do squime que fui buscar no correio mesmo pagando frete.,True,Product Not Received
+0f7dda01ef285792786f337afc122956,b85f9848a67767d36a4c39d1237b471a,1,Bom dia. Comprei 2 produtos 01 ventilador de teto que ainda não recebi. e um filtro do squime que fui buscar no correio mesmo pagando frete.,True,Shipping / Logistics
+6b31864d3682f17272275220b58938f0,38aae594eaee5a2935d397fd93ca43c9,1,Vieram faltando 4 frascos!,True,Missing Product / Item
+09e543d8be5911076628e46bcf674dfb,b458ffdf7369c1e76ef5ba66155886da,2,O produto veio diferente do anuncio,True,Wrong Product
+ea18499b2b2e87e3d5e3eaa2c383e3f9,a2b4be96b53022618030c17ed437604d,1,Produto não entregue Pensei que seria entregue antes do prazo mas nenhuma coisa nenhuma outra,True,Product Not Received
+68f04219e1d6468fb32f28f729268d77,39dab0c9ea1c7c66a1a516423f50c97a,3,"Não me atentei as medidas dela realmente, mas achava improvável uma carteira não ter nenhum compartimento onde caiba o documento de identidade...",False,No Clear Complaint
+379995ed73e715fadef187a4072685e1,d8f135a040950408cd059c27a623bd97,1,Nao recebi o produto.,True,Product Not Received
+db27636ea82d449a9e0d1bea6b419465,a9a93c428c6103f2151bb63a1d32a520,1,MINHA COMPRA NAO CHEGOU!!,True,Product Not Received
+58a3b0c6edfc9b86bcd7f6fbe40cd5e4,c82d05a27c07ba92d333b046a6042d32,1,Mandei email não respondi. Produto disse que está entregue. Mas estou pedindo assinatura pra mim ver se alguem pode ter recebido em meu lugar email não é respondido,True,Product Not Received
+f36f4991916908b31dc6381bb90d435e,26be48cb41c2beb9e712f1563fefac0a,1,Comprei dois travesseiros e só recebi um. Não consigo falar no canal de atendimento.,True,Seller / Service Issue
+6c8b177f124af471dbc0371b7c6304ca,4ccb18585c6005147fbfe3c78a9caf2b,1,"Produto com defeito, após contato com targaryen, aguardando envio de mensagem para troca do mesmo.",True,Product Damage / Defect
+6c8b177f124af471dbc0371b7c6304ca,4ccb18585c6005147fbfe3c78a9caf2b,1,"Produto com defeito, após contato com targaryen, aguardando envio de mensagem para troca do mesmo.",True,Seller / Service Issue
+4bb47f4207ccaab109c2541166334f43,ef32bb24f4e81a29a305e5285c8d3d34,1,"Cancelaram a compra Simplesmente cancelaram a compra a nem tentaram dar uma explicação ou chegar num resultado que fosse satisfatório para ambas as partes, não recomendo.",True,Cancellation / Refund
+dd75d4519e8d8ec3baadade5f6abfdc6,1958f9c53ded478c55050913c2367266,3,"A loja vendeu e entregou tudo certo, porem não compro mais, o correio nao entrega em casa. Fui buscar na central, as duas vezes teve barraco, e paguei pra entrega ksa, nao me sujeito mais protesto.",True,Product Not Received
+dd75d4519e8d8ec3baadade5f6abfdc6,1958f9c53ded478c55050913c2367266,3,"A loja vendeu e entregou tudo certo, porem não compro mais, o correio nao entrega em casa. Fui buscar na central, as duas vezes teve barraco, e paguei pra entrega ksa, nao me sujeito mais protesto.",True,Seller / Service Issue
+dd75d4519e8d8ec3baadade5f6abfdc6,1958f9c53ded478c55050913c2367266,3,"A loja vendeu e entregou tudo certo, porem não compro mais, o correio nao entrega em casa. Fui buscar na central, as duas vezes teve barraco, e paguei pra entrega ksa, nao me sujeito mais protesto.",True,Shipping / Logistics
+dd75d4519e8d8ec3baadade5f6abfdc6,1958f9c53ded478c55050913c2367266,3,"A loja vendeu e entregou tudo certo, porem não compro mais, o correio nao entrega em casa. Fui buscar na central, as duas vezes teve barraco, e paguei pra entrega ksa, nao me sujeito mais protesto.",True,Payment
+7e4dca270c9b10bc993ca798303a57b4,d1cbdd8ef126f25f75c37e56508061ee,2,A qualidade da bolsa deve melhorar.,True,Product Quality
+767394f331be428cd367a17b13c6cba1,4bb3eed0b423bcae4c063a401e17308e,3,"Na nota fiscal vieram como se fossem três kits de jogos de cama. Mas na verdade, vieram apenas dois. O dourado e o palha! Ainda falta um! Como proceder?",False,No Clear Complaint
+fec426e38897547125a291bd0411d26f,6e49a3d8325755bd3e9d84d84bd8dbf2,1,Atraso grande O vendedor não entregou o produto. Pedi à lannister que fizesse as devidas cobranças.,True,Late Delivery
+fec426e38897547125a291bd0411d26f,6e49a3d8325755bd3e9d84d84bd8dbf2,1,Atraso grande O vendedor não entregou o produto. Pedi à lannister que fizesse as devidas cobranças.,True,Product Not Received
+fec426e38897547125a291bd0411d26f,6e49a3d8325755bd3e9d84d84bd8dbf2,1,Atraso grande O vendedor não entregou o produto. Pedi à lannister que fizesse as devidas cobranças.,True,Seller / Service Issue
+fec426e38897547125a291bd0411d26f,6e49a3d8325755bd3e9d84d84bd8dbf2,1,Atraso grande O vendedor não entregou o produto. Pedi à lannister que fizesse as devidas cobranças.,True,Payment
+de9041584fadb543a39ad858803868d2,498964d3c3eddfc0d670e6be2ea2d5b2,3,eu recomendo so faltou entregar mais rapido,True,Missing Product / Item
+8308469d770a0e7dafe033585b78b352,d7fc8d99795c8cd82eeab767e889e645,1,sua loja e um merda tem 20 dia espera minha mochila ate agora nada comprei um celular levo 2 meses para chega voce nao saber atende bem quero minha mochila ass alan correa barcelos,True,Seller / Service Issue
+7fb35ed4eac7baf03920140db2d26eb3,fa3cc6b1b48c7b730f6c4c43e423c5aa,1,Falta 1 lustre Entregaram só 1 lustre e ficou faltando o outro,True,Missing Product / Item
+1540a1a2cf3051a12025106af974e104,a2b01f72ab3f4fc8831837432d5a0117,3,"não sei se eu não prestei a atenção devida quanto ao tipo do papel na hora da compra: eu esperava receber um papel de 230g, e veio um de 180g, mais a entrega foi em tempo abil. Obrigado e bom dia.",True,Product Not Received
+1540a1a2cf3051a12025106af974e104,a2b01f72ab3f4fc8831837432d5a0117,3,"não sei se eu não prestei a atenção devida quanto ao tipo do papel na hora da compra: eu esperava receber um papel de 230g, e veio um de 180g, mais a entrega foi em tempo abil. Obrigado e bom dia.",True,Missing Product / Item
+f5eb51a3fe6457e1e746e1f189b794ad,656ab6b8b05ce120b2411c530bd2d446,1,Nao recebi o produto,True,Product Not Received
+15f442053a8372bd40f650ddea2cff79,f40ef9a47f9670b54b9e350f354795a2,1,Produto com defeito,True,Product Damage / Defect
+9c0ff4d25d28bd004057ce16540abc3d,45390ff93f092f0de1524d486a172c33,1,A mercadoria não foi entregue ainda..,True,Product Not Received
+2e56674aa72757a9c730a5886e3b210a,3b075cdef3ce549b7e7b8d6b4678ebd8,3,Não entendo no mesmo pedido não entregarem a mercadoria completa,True,Product Not Received
+32838f58f834c1635096dfff04eea07f,369d4391cc475b184da61af43967f197,1,Preciso de uma solução Preciso do meu dinheiro.,False,No Clear Complaint
+ef87bc123cc63a4663d024b076f63149,06addb9b5cc9c47e661a6eed12276418,2,"Além do atraso do produto, veio sem manual de instrução e como sou leigo, tenho de me virar para instalar o transformador",True,Late Delivery
+8a8a7bf6bc38334bb02b706bf5101f4d,4e3cc1c522e0aef1e726d2f9eaeb8807,3,"Bom Tô em teste com o produto ,espero que seja bom .",False,No Clear Complaint
+405eb2ea45e1dbe2662541ae5b47e2aa,03c939fd7fd3b38f8485a0f95798f1f6,3,Seria ótimo se tivesem entregue os 3 (três) pedidos de uma única vez.,False,No Clear Complaint
+af9876b8ea0bc96e69f91898e3dd24fd,14a51ed90079fbc00365d6848d837ff3,2,maravilhoso recomendo,False,No Clear Complaint
+7fba3f71c35a8ebffbdca7953aeb7943,69741f6be661e32356395ea391cdca5d,1,demora no correios eu nao posso falar se nao recebi o produto,True,Late Delivery
+7fba3f71c35a8ebffbdca7953aeb7943,69741f6be661e32356395ea391cdca5d,1,demora no correios eu nao posso falar se nao recebi o produto,True,Product Not Received
+7fba3f71c35a8ebffbdca7953aeb7943,69741f6be661e32356395ea391cdca5d,1,demora no correios eu nao posso falar se nao recebi o produto,True,Shipping / Logistics
+7b5e11cb50b3afb09adda2ec8c5d67f1,2d79c4e3754b1f344d6695435b1a92a6,2,"Os correios é a pior empresa do mundo e não fico a vontade em comprar em lojas que trabalham junto com os correios, prefiro a Wallmart ou a ponto frio lá eles não trabalham com os correios!",True,Seller / Service Issue
+7b5e11cb50b3afb09adda2ec8c5d67f1,2d79c4e3754b1f344d6695435b1a92a6,2,"Os correios é a pior empresa do mundo e não fico a vontade em comprar em lojas que trabalham junto com os correios, prefiro a Wallmart ou a ponto frio lá eles não trabalham com os correios!",True,Shipping / Logistics
+fe9dc2213b775f6c76f34a2a549ccd64,a56f9a0588c3c7aaaa93f193bd7c7cd3,2,Comprei 3 luminarias e recebi apenas 2. Veio a Nota Fiscal constando 3 e apenas 2 luminarias na embalagem. Abri reclamação pelo site imediatamente e aguardo retorno.,True,Packaging
+e2ac6f5dcb7c5448e7b1325bbf763454,17d22657f0987dcb5df8abd4fa057f8c,1,Achei a qualidade do produto muito inferior ao que detalhava nas informações. A qualidade do tecido não me agradou.,True,Product Quality
+497babc32d838884766f030100f0be94,c2abf9bb9aed7fde704bd9b34802c52a,1,Produto é uma replica.,False,No Clear Complaint
+7309654bbc4d018d01bbeb8d7d512f03,09f929ce6d526af69a12f1a54230e396,1,Quero trocar e não está carregando meu tablete e está c defeito,True,Product Damage / Defect
+2f50b3825062c9e15f663e31b3916189,b418f47f5f940ca554e3010f3c009c8f,3,"Como não recebi o produto,não tenho como recomendar.
+Favor entrar em contato comigo para esclarecer.",True,Product Not Received
+2f50b3825062c9e15f663e31b3916189,b418f47f5f940ca554e3010f3c009c8f,3,"Como não recebi o produto,não tenho como recomendar.
+Favor entrar em contato comigo para esclarecer.",True,Seller / Service Issue
+4168903f9864812397d0a9847f90e829,b89638c45bf1b7dcf3e47420ac9c9066,3,RECLAMAÇÃO A EMPRESA NÃO TINHA O PRODUTO QUE COMPREI E MANDOU UM OUTRO SEM NEM ME CONTACTAR PARA SABER SE EU QUERIA! RECEBI O PRODUTO E TIVE QUE DEVOLVER PARA TROCAR.,True,Product Not Received
+4168903f9864812397d0a9847f90e829,b89638c45bf1b7dcf3e47420ac9c9066,3,RECLAMAÇÃO A EMPRESA NÃO TINHA O PRODUTO QUE COMPREI E MANDOU UM OUTRO SEM NEM ME CONTACTAR PARA SABER SE EU QUERIA! RECEBI O PRODUTO E TIVE QUE DEVOLVER PARA TROCAR.,True,Seller / Service Issue
+9f2f08676e3fb5560684dbace1d78ddb,a0ef08378f02efac03e5905cccb1644d,1,Não recebimento do produt,True,Product Not Received
+faf7d1f8c50686c22302a6a3974759e4,87fdbf51d1ca05cd443a8cbc44c1f5ee,1,Produto deve ter extraviado,False,No Clear Complaint
+4ca57be78a2cfd23b8b341521800054f,28143b0b8baca7bc05bdcde9a7c65bd3,3,Entrega atrasada,True,Late Delivery
+0254bd905dc677a6078990aad3331a36,5bf226cf882c5bf4247f89a97c86f273,1,"O pedido consta de 2 produtos e até agora recebi apenas 1 produto, e o que me preocupa é que o status aparece como entregue.
+Solicito providências",False,No Clear Complaint
+8916d07c77cdcde51cee62418954d2d8,8b7fd198ad184563c231653673e75a7f,1,Eu não recebi o quadro da turma do Chaves.,True,Product Not Received
+350e4b450fe67e009abfdcfd6e172e13,945bbdd66669edb480ca9f0037ed11b0,1,"Demora pra envio e ainda não chegou, problema pra despachar e tbm pra envio da parte dos correios",True,Late Delivery
+350e4b450fe67e009abfdcfd6e172e13,945bbdd66669edb480ca9f0037ed11b0,1,"Demora pra envio e ainda não chegou, problema pra despachar e tbm pra envio da parte dos correios",True,Product Not Received
+350e4b450fe67e009abfdcfd6e172e13,945bbdd66669edb480ca9f0037ed11b0,1,"Demora pra envio e ainda não chegou, problema pra despachar e tbm pra envio da parte dos correios",True,Shipping / Logistics
+d713665425af0b92768a22b383c0e4e8,125380a45478fae5bd5466553f2ed928,3,"Recomendo Chegou bem rápido e parece ser bom, só vou descobrir com o uso, a capa para o sofá de 3 lugares veio um pouco menor a largura veio 1,46, mas a de 2 lugares veio no tamanho certo.",False,No Clear Complaint
+14eef9d9e1f080386d5fd681e0007565,1b93c74fca59a2ccbd51e3fdcb15d36a,1,"Comprei um carregador portátil de celular ele estava ligado na caixa, estragado não encaixa o cabo usb porta USB esta saltando, arranhado tb na trazeira. Aguardando a troca.",True,Packaging
+095184a89e629807907eae1e267ff270,cfa8a62cd97f213de2dfe3854b480d62,3,"Recomento produto e parceiro.
+Produto chegou antes do prazo, funcionando e com todos os acessórios. 
+Porém, a embalagem foi danificada durante o transporte. A caixa chegou com avarias.",True,Product Damage / Defect
+095184a89e629807907eae1e267ff270,cfa8a62cd97f213de2dfe3854b480d62,3,"Recomento produto e parceiro.
+Produto chegou antes do prazo, funcionando e com todos os acessórios. 
+Porém, a embalagem foi danificada durante o transporte. A caixa chegou com avarias.",True,Packaging
+095184a89e629807907eae1e267ff270,cfa8a62cd97f213de2dfe3854b480d62,3,"Recomento produto e parceiro.
+Produto chegou antes do prazo, funcionando e com todos os acessórios. 
+Porém, a embalagem foi danificada durante o transporte. A caixa chegou com avarias.",True,Shipping / Logistics
+71f7323f884804c6d38bbcd658e07318,759fc48b9360c6710317b337b9e8a974,1,"O produto veio diferente da q mostra na foto, não é de luxo, nem acolchoado como dizia.",False,No Clear Complaint
+af4299cd0392682ad0d6c85317d6688a,3c901df8e80c646961877910379f4c1d,1,"Fiz a compra em fevereiro e até agora NADA!!! Nenhuma satisfação, nenhum contato...NADA!!!",True,Seller / Service Issue
+8e556481b65debae8f7ef5f7b5129719,271cf6fbd3f70026fc60ccf8139f8a2a,3,O produto veio bem embalado e antes do prazo! Fiquei satisfeita com a entrega! O perfume é um pouco enjoativo! Mas uso bem pouquinho misturado com Essencial masculino. Fica bom!,True,Late Delivery
+8e556481b65debae8f7ef5f7b5129719,271cf6fbd3f70026fc60ccf8139f8a2a,3,O produto veio bem embalado e antes do prazo! Fiquei satisfeita com a entrega! O perfume é um pouco enjoativo! Mas uso bem pouquinho misturado com Essencial masculino. Fica bom!,True,Packaging
+b4247ced2dbf120dd1eb7705b3e62fb6,7c1c60f422c242e539075d9b9edca95c,1,Não recomendo encomendei e paguei por 2 unidades do produto (Película de vidro 3D Moto X4) e somente uma foi entregue.,True,Product Not Received
+b4247ced2dbf120dd1eb7705b3e62fb6,7c1c60f422c242e539075d9b9edca95c,1,Não recomendo encomendei e paguei por 2 unidades do produto (Película de vidro 3D Moto X4) e somente uma foi entregue.,True,Payment
+7c817942c8d1f67570680a6abe56c760,f4b166c60fee8f28f16c05ad386fdc09,3,"O PRAZO PARA ENTREGA FOI ÓTIMO, PORÉM O PRODUTO VEIO COM O VIDRO QUEBRADO E A EMBALAGEM TOTALMENTE SEM SEGURANÇA. O RELÓGIO VEIO DENTRO DE UM SACO PLÁSTICO, SOLTO DENTRO DE UMA CAIXA DE PAPELÃO.",True,Late Delivery
+7c817942c8d1f67570680a6abe56c760,f4b166c60fee8f28f16c05ad386fdc09,3,"O PRAZO PARA ENTREGA FOI ÓTIMO, PORÉM O PRODUTO VEIO COM O VIDRO QUEBRADO E A EMBALAGEM TOTALMENTE SEM SEGURANÇA. O RELÓGIO VEIO DENTRO DE UM SACO PLÁSTICO, SOLTO DENTRO DE UMA CAIXA DE PAPELÃO.",True,Product Damage / Defect
+7c817942c8d1f67570680a6abe56c760,f4b166c60fee8f28f16c05ad386fdc09,3,"O PRAZO PARA ENTREGA FOI ÓTIMO, PORÉM O PRODUTO VEIO COM O VIDRO QUEBRADO E A EMBALAGEM TOTALMENTE SEM SEGURANÇA. O RELÓGIO VEIO DENTRO DE UM SACO PLÁSTICO, SOLTO DENTRO DE UMA CAIXA DE PAPELÃO.",True,Packaging
+6665ffaf462f7c1829a05523c0895c42,18c2175899ae0ea38308dec32efffc22,1,Comprei um cartucho HP original e recebi um cartucho PIRATA!,False,No Clear Complaint
+878aacaa11885a2d9622106965a1013d,8374f35f0981af1a2b2ebc5cc5ac9859,1,"Cartucho HP 60 colorido não funciona, impressora não reconhece como HP. Solicito instruções para devolução do produto e do dinheiro já pago..No Reclame Aqui tem varias queixas de produtos da targaryen .",True,Product Damage / Defect
+878aacaa11885a2d9622106965a1013d,8374f35f0981af1a2b2ebc5cc5ac9859,1,"Cartucho HP 60 colorido não funciona, impressora não reconhece como HP. Solicito instruções para devolução do produto e do dinheiro já pago..No Reclame Aqui tem varias queixas de produtos da targaryen .",True,Payment
+878aacaa11885a2d9622106965a1013d,8374f35f0981af1a2b2ebc5cc5ac9859,1,"Cartucho HP 60 colorido não funciona, impressora não reconhece como HP. Solicito instruções para devolução do produto e do dinheiro já pago..No Reclame Aqui tem varias queixas de produtos da targaryen .",True,Cancellation / Refund
+2e68adb91fc0eb9ff9ef97c79dad5104,a2a216a3b0034fa46d13dfa2ef86a62c,2,NÃO RECEBI O PRODUTO,True,Product Not Received
+9a1502407ccaab2ed1dec189e881d004,fade3e37b5640d2582de9aacb77f9758,2,"Entrega feita no prazo, porém o produto entregue não foi o comprado. Estou tentando resolver a situação.",True,Late Delivery
+9a1502407ccaab2ed1dec189e881d004,fade3e37b5640d2582de9aacb77f9758,2,"Entrega feita no prazo, porém o produto entregue não foi o comprado. Estou tentando resolver a situação.",True,Wrong Product
+eb0b347c1b7e5491843abb31c368bf42,f42bfe430d08b71e6057873397dcc741,3,Esta faltando uma das três cadeiras que comprei.,True,Missing Product / Item
+f47279ea5a9c64ce467dd3b187c52593,a721e26ff7bd0e11f75933623f5eb2d5,1,"Não recebi o produto... Comprei há muito tempo já! Comprei dois ao mesmo tempo, sei lá porque eles enviaram os dois filtros separados. Chegou apenas um, o outro não chegou até hoje e ainda não obtive nenhuma resposta da loja",True,Product Not Received
+f47279ea5a9c64ce467dd3b187c52593,a721e26ff7bd0e11f75933623f5eb2d5,1,"Não recebi o produto... Comprei há muito tempo já! Comprei dois ao mesmo tempo, sei lá porque eles enviaram os dois filtros separados. Chegou apenas um, o outro não chegou até hoje e ainda não obtive nenhuma resposta da loja",True,Seller / Service Issue
+be071d1e1c8cdb12516fc323bd4d321b,d3cefa3b994d2662eba354f826cd64a7,3,de boas,False,No Clear Complaint
+7b395616622736266d6690d1be448b26,cc6581115f5706e74610adf4449e5899,2,Razoável O produto foi entregue no prazo porém veio com a tampa quebrada e o produto vazando,True,Product Damage / Defect
+d21fd2784d582c5c499949b8bc6c1741,2591f6277be80b0c25627c745ec900c4,1,Paguei e não recebi Essa loja nunca mais,True,Product Not Received
+d21fd2784d582c5c499949b8bc6c1741,2591f6277be80b0c25627c745ec900c4,1,Paguei e não recebi Essa loja nunca mais,True,Seller / Service Issue
+d21fd2784d582c5c499949b8bc6c1741,2591f6277be80b0c25627c745ec900c4,1,Paguei e não recebi Essa loja nunca mais,True,Payment
+0a2cc8dc7a5ae82067704d1574fb61a7,46484009102069e531f34a424a500982,1,Produto veio com defeito,True,Product Damage / Defect
+f486ddf9a94e002a3f74bef738a752a8,ca2bf936bb1f3bc31d83dd119beb1efc,1,"Cor incorreta Recebi o produto, mas com a cor incorreta da q pedi na hora da compra. Comprei cinza, recebi azul marinho.",False,No Clear Complaint
+aa831134c96002e021474f342e2d3ed8,44d48877c193df24fccfd55feefe7521,3,Tudo ok...,False,No Clear Complaint
+c503dad58a30d89e78ccc13365492910,f65ca26881ac6c0ef00ce00baf3d157b,2,"a cadeira eu esperava é muito pequena não e giratória,,, ñ tem a peça pra deixar alta..",False,No Clear Complaint
+1c27c94595313bf058da66051775137d,a6f204a476de5e606ae0188921142f7a,1,"embora o prazo seja de 14 dias úteis, o produto comprado no dia 09/05 só veio chegar no dia 2/6 e alem de chegar super atrasado ainda veio o produto errado.",True,Late Delivery
+1c27c94595313bf058da66051775137d,a6f204a476de5e606ae0188921142f7a,1,"embora o prazo seja de 14 dias úteis, o produto comprado no dia 09/05 só veio chegar no dia 2/6 e alem de chegar super atrasado ainda veio o produto errado.",True,Wrong Product
+db04ac6f41d45ed2f6213583d63ae5f8,e3cc61bbc1cfe072879400a8d82f10a2,1,Como faço para rever o dinheiro pago de volta. Vou abrir um boletim de ocorrências....,True,Payment
+db04ac6f41d45ed2f6213583d63ae5f8,e3cc61bbc1cfe072879400a8d82f10a2,1,Como faço para rever o dinheiro pago de volta. Vou abrir um boletim de ocorrências....,True,Cancellation / Refund
+1505b3f70ffd4ca313ab2a11f5122a64,d7eec17ae2e61fc4dc36f1e1ac4d0ed1,1,Solicitarei reembolso do dinheito,True,Cancellation / Refund
+7a71d6106c7a3c1822ee0faf986e6869,6d6c3ad8291ffb9fd855faa127500137,1,NAO TENHO COMO RECOMENDAR POIS ATE AGORA NAO RECEBI O PRODUTO,True,Product Not Received
+18b8cb823b512faee6402eefd4362e27,8f53771a7fcdba0c4033c969cda4724c,1,"Boa tarde!
+Recebi o produto no prazo, no entanto não recebi produto correto. Como devo proceder? Quero devolvê-lo pois não foi o que encomendei e paguei.",True,Late Delivery
+18b8cb823b512faee6402eefd4362e27,8f53771a7fcdba0c4033c969cda4724c,1,"Boa tarde!
+Recebi o produto no prazo, no entanto não recebi produto correto. Como devo proceder? Quero devolvê-lo pois não foi o que encomendei e paguei.",True,Product Not Received
+18b8cb823b512faee6402eefd4362e27,8f53771a7fcdba0c4033c969cda4724c,1,"Boa tarde!
+Recebi o produto no prazo, no entanto não recebi produto correto. Como devo proceder? Quero devolvê-lo pois não foi o que encomendei e paguei.",True,Payment
+f57f092b1bdc4ebe6359ac73a409feac,6a3c03b4d8dd9b6cf04b7c09c5cf6627,1,"Entrega de merda , até hoje não recebi",True,Product Not Received
+bbda0f82a8660bd24aeb546c0ad6517b,55965253f02e0f625cfd4efb9c0f4178,1,Gostaria de saber o que está acontecendo porque ainda não chegou?,True,Product Not Received
+12f1e0122eec171e83b144c19d84e3dd,fd83748fe6056c1759777f41c19a742a,3,"Bom Dentro do prazo
+Produto bom",False,No Clear Complaint
+04e7d4a5b8d501f30d43ba26489202a3,c94821db10df06a6d17a8054d3a0b919,1,"Firma não cumpre o prometido, pagamento foi feito à vista até agora não recebi o produto.",True,Product Not Received
+04e7d4a5b8d501f30d43ba26489202a3,c94821db10df06a6d17a8054d3a0b919,1,"Firma não cumpre o prometido, pagamento foi feito à vista até agora não recebi o produto.",True,Payment
+ce6ff409660780dbb033b469b6cab5bb,c578990a35c5b8748fcd389179d04326,1,"não recomendo Meu pedido foi uma bola de futebol de campo conforme está especificado acima, só que me entregaram uma bola de futsal, eu não jogo futsal, achei que havia pedido errado, mais o erro foi da loja.",True,Product Not Received
+ce6ff409660780dbb033b469b6cab5bb,c578990a35c5b8748fcd389179d04326,1,"não recomendo Meu pedido foi uma bola de futebol de campo conforme está especificado acima, só que me entregaram uma bola de futsal, eu não jogo futsal, achei que havia pedido errado, mais o erro foi da loja.",True,Wrong Product
+ce6ff409660780dbb033b469b6cab5bb,c578990a35c5b8748fcd389179d04326,1,"não recomendo Meu pedido foi uma bola de futebol de campo conforme está especificado acima, só que me entregaram uma bola de futsal, eu não jogo futsal, achei que havia pedido errado, mais o erro foi da loja.",True,Seller / Service Issue
+1d67a94d03d5f1ce7a42f04e1de6f54e,1edf3cfb4e85e8094a0a1f4cef3f6215,1,"Não acredito q comprei um presente de Natal em novembro e aminha esposa vai ficar sem o presente de natal por incompetência da logística de vocês 
+
+Depois q passaram a vender assim por parceiros",True,Shipping / Logistics
+bfb704388d9333cef09a4fd69bdbd774,421d08636eed6cd2041826b40405c194,3,"O que achei péssimo foi cobrar dois frete para duas unidades do mesmo produto, vierem em caixas separadas, o valor do frete foi um pouco a menos que o valor de uma unidade do produto. Absurdo",True,Shipping / Logistics
+46f343d1d3f2eeb2df2f514bad9a200e,641682198a3f69b843b8d88fd145b8de,1,"Muito chateada, não recebi o produto e a loja confirmou no site que eu recebi, não sei baseada em que. Estou tentando entrar em contato com a loja e está difícil.",True,Product Not Received
+46f343d1d3f2eeb2df2f514bad9a200e,641682198a3f69b843b8d88fd145b8de,1,"Muito chateada, não recebi o produto e a loja confirmou no site que eu recebi, não sei baseada em que. Estou tentando entrar em contato com a loja e está difícil.",True,Seller / Service Issue
+7265aaa731dad956c1b4a56fffb3843d,77b85146fc12a34dd81ef54524f247b2,2,"A empresa não entregou a nota fiscal, o que é essencial nessa transição para a compradora.",True,Product Not Received
+7265aaa731dad956c1b4a56fffb3843d,77b85146fc12a34dd81ef54524f247b2,2,"A empresa não entregou a nota fiscal, o que é essencial nessa transição para a compradora.",True,Seller / Service Issue
+2870f678766c2715f450a000f258ee9b,d364ed074343c683a974cfa900a9d4c9,1,"O relógio foi entregue.
+A máscara que não recebi.",True,Product Not Received
+5d9909ea17576b8c3c6b0b42261474be,7e8641c6ba8f77235152dd1c3356f814,1,"Fiz a compra de 2 cartuchos de impressora, que estou precisando muito, e até agora não recebi.",True,Product Not Received
+a12ed320331464984725e39c0d8bcff7,2e7f50a8fb8e08f64107c829ddf4ba84,1,"Primeira vez que faço compra com eles , comprei um cartucho dá marca Canon e eles me enviaram o compatível .Resultado não funcionou na minha impressora",True,Product Damage / Defect
+9042625355d3bf06b71d8457acae3801,8f7f9e270f90486a44484ad392317a7c,1,"Sei que o problema ocorreu com a entrega, mas até agora não recebi nenhum posicionamento da empresa quanto a devolução.",True,Product Not Received
+9042625355d3bf06b71d8457acae3801,8f7f9e270f90486a44484ad392317a7c,1,"Sei que o problema ocorreu com a entrega, mas até agora não recebi nenhum posicionamento da empresa quanto a devolução.",True,Cancellation / Refund
+ed4193f666d0d0363de63acca6d5ae0f,7d1368ef7cac9199c5f7372a8e356651,1,Não recebi minha mercadoria ainda. Pois o prazo já passou e não recebi.,True,Product Not Received
+cfbf66327fe295a2f95ba468b6a9d1f2,201164b89baf9300df72f328a6e5842e,1,Não recebi Não recebi o produto. Ia retirar hj.,True,Product Not Received
+4a19a81c98e91ef3a87538d219d37126,2e7e996efcdd5363fe2dc812bf804e58,3,"Mais ou menos Se vc não gosta de plastico, nem compre..
+Mas é bem bonitinho, só achei caro.. Os desenhos não são bem coloridos.. 
+Eu não compraria novamente..
+Porem, minha cozinha ficou bem bonitinha..",False,No Clear Complaint
+949cc0583cfcc420850304c66c32b8bb,1dd524259037e53865e1fbee3697183b,3,"Faltou o kit do teflon que foi cobrado $10,00 a mais.",True,Missing Product / Item
+23b4bc2bed27abb066272d560caa7c5b,94d97c26cd5ca2a98749be9e672b44d4,2,Solicitei a devolução mas já se passaram as 48h e ainda não recebi retorno.,True,Product Not Received
+23b4bc2bed27abb066272d560caa7c5b,94d97c26cd5ca2a98749be9e672b44d4,2,Solicitei a devolução mas já se passaram as 48h e ainda não recebi retorno.,True,Cancellation / Refund
+cc91bef7d699f0403d1a55c111671faa,172482155d13fc27c9ee15df2cc7913b,3,"Um problema existente em minha opinião é a falta de controle dos produtos quando vão ser entregues,meu avô comprou 6 luminárias da mesma que eu e chegaram apenas 5",False,No Clear Complaint
+108a42713e93d7575062c00da3777864,44d079b84edcef02c872e157438940e7,3,"o mostrador do mp3 está de cabeça para a baixo,
+funciona só que tem esse problema",False,No Clear Complaint
+b6cf84b6a03fcb72b81d806fa424888e,1f4010e63b5ac13defa48305766a912a,1,"Após a compra no site, fiz a solicitacao do cancelamento da msm e nao fui atendido. Tentei várias vezes entrar em contato e nao consegui. Agora que o produto chegou quero devolve lo.",True,Product Not Received
+b6cf84b6a03fcb72b81d806fa424888e,1f4010e63b5ac13defa48305766a912a,1,"Após a compra no site, fiz a solicitacao do cancelamento da msm e nao fui atendido. Tentei várias vezes entrar em contato e nao consegui. Agora que o produto chegou quero devolve lo.",True,Seller / Service Issue
+b6cf84b6a03fcb72b81d806fa424888e,1f4010e63b5ac13defa48305766a912a,1,"Após a compra no site, fiz a solicitacao do cancelamento da msm e nao fui atendido. Tentei várias vezes entrar em contato e nao consegui. Agora que o produto chegou quero devolve lo.",True,Cancellation / Refund
+51af02c72290625089caa81f11f305df,0d8fd53f6fe12430bce52454cc326f8e,1,"Ah q ódio não recebi nada que confirmação vcs querem q eu não recebi Nada?! Parece q não entenderam, o produto esta lá na agência dos correios, mas veio errado e faltando, então não retirei Nada!",True,Product Not Received
+51af02c72290625089caa81f11f305df,0d8fd53f6fe12430bce52454cc326f8e,1,"Ah q ódio não recebi nada que confirmação vcs querem q eu não recebi Nada?! Parece q não entenderam, o produto esta lá na agência dos correios, mas veio errado e faltando, então não retirei Nada!",True,Missing Product / Item
+51af02c72290625089caa81f11f305df,0d8fd53f6fe12430bce52454cc326f8e,1,"Ah q ódio não recebi nada que confirmação vcs querem q eu não recebi Nada?! Parece q não entenderam, o produto esta lá na agência dos correios, mas veio errado e faltando, então não retirei Nada!",True,Wrong Product
+51af02c72290625089caa81f11f305df,0d8fd53f6fe12430bce52454cc326f8e,1,"Ah q ódio não recebi nada que confirmação vcs querem q eu não recebi Nada?! Parece q não entenderam, o produto esta lá na agência dos correios, mas veio errado e faltando, então não retirei Nada!",True,Shipping / Logistics
+f4cc3067cb5ae76978801c0fce5cd0da,a52e6fa2d7c6ecaf73ff5f7f10438339,3,Satisfeito OK,False,No Clear Complaint
+b23884a121b0d630f7f4a8120aa9b0e2,92636fba2bec02c660ed866c0ab6f4bd,1,"Boa noite,
+Só recebi o esterilizador, não recebi a almofada.
+Além disso, o esterilizador veio com a caixa aberta/rasgada.",True,Product Not Received
+47371fa592824115e1e5673ccb527d54,09c06d47b8b58dbabf753646fe5b89ab,1,Entrega Não recebi a mercadoria e não tive retorno do stark. Péssimo suporte.,True,Product Not Received
+47371fa592824115e1e5673ccb527d54,09c06d47b8b58dbabf753646fe5b89ab,1,Entrega Não recebi a mercadoria e não tive retorno do stark. Péssimo suporte.,True,Seller / Service Issue
+f37f5e8a661a4f8ef464b7b0207675a3,75a696c48d81aa753f8913252a4cda3d,1,nao recebi o produto e estou com problema para receber o dinheiro de volta,True,Product Not Received
+f37f5e8a661a4f8ef464b7b0207675a3,75a696c48d81aa753f8913252a4cda3d,1,nao recebi o produto e estou com problema para receber o dinheiro de volta,True,Cancellation / Refund
+1ba403996e200a1a1a0a22ca75436734,7cb46c0eb2855e57112f72215ac78d47,3,Atrasou na entrega de um item mas foi resolvido muito rapido,True,Late Delivery
+4f8617e63b7edcc271f2f2cc5e553e28,e422e79c353461906ac09d654bd28ad7,1,Produto não entregue,True,Product Not Received
+a21f0586328bd19a0c01e2b22944c29a,e4f669bb9b79875231a2cf27ab8dd229,2,Bom,False,No Clear Complaint
+6d132c4ab82173eda84b7306e95ba98c,225ce7a56330d0d477b097a8752b22cf,1,Vem atrasando muito na entrega isso não é a primeira vez.,True,Late Delivery
+4d8625426a52a49b7e781bc50e13fa93,c48ec7c034c645ae4c720e62205e993b,1,"Foi entregue apenas 1 e eu comprei 2.
+Conforme nota",False,No Clear Complaint
+01f729a68a977867b3b819eb5f96be64,853fdd4f5504e5f2c286e302f0047f4f,2,ENTREGA ATE AGORA O PRODUTO NÃO FOI ENTREGUE,True,Product Not Received
+ce1f9aed6a191369b2be663a1ef256fd,e2bd28bec2c4b78b6b39dd0cda08c177,3,Bom Gostei,False,No Clear Complaint
+0de61db87336708d8355a3edd0f61905,ab5f199b8bdeb7e529bd36b79766cdc6,1,Produto veio incompleto faltando 4 capas impermeaveis que comprei junto.,True,Missing Product / Item
+f8ac05b2f676cf2000a336b3b380f0d9,4fba3b9d5278d363d0c484bcbc816584,1,Só entregaram uma cortina na cor bege e não entregaram a azul veio marcando na nota o produto mas o produto não veio,True,Product Not Received
+f8ac05b2f676cf2000a336b3b380f0d9,4fba3b9d5278d363d0c484bcbc816584,1,Só entregaram uma cortina na cor bege e não entregaram a azul veio marcando na nota o produto mas o produto não veio,True,Missing Product / Item
+97ec2b5493793c1317c7bee94c770f28,a65123674e1b3ffde2fff9af8c009f30,3,Só o erro e quando pedir um produto manda o certo ok,False,No Clear Complaint
+8c3a4d5390b2ccf084b413054dbaa3a0,b4c9708f4e37c6ac87564ef1f0efa7f3,2,Recomendaria se não tivesse pressa para receber o produto no quesito entrega esta perdendo feio para concorrência uma loja desse porte se enrrolar tanto p fazer uma entrega tem q agilizar essa parte.,True,Product Not Received
+8c3a4d5390b2ccf084b413054dbaa3a0,b4c9708f4e37c6ac87564ef1f0efa7f3,2,Recomendaria se não tivesse pressa para receber o produto no quesito entrega esta perdendo feio para concorrência uma loja desse porte se enrrolar tanto p fazer uma entrega tem q agilizar essa parte.,True,Seller / Service Issue
+58c427813af4e8722408cb28fb39a4b0,a0c1b0545665f839199e53177bc639f7,3,"Não recebi o produto comprado, por falta de disponibilidade. Inclusive estou no aguardo no ressarcimento do valor pago que já foi solicitado através de depósito.",True,Product Not Received
+58c427813af4e8722408cb28fb39a4b0,a0c1b0545665f839199e53177bc639f7,3,"Não recebi o produto comprado, por falta de disponibilidade. Inclusive estou no aguardo no ressarcimento do valor pago que já foi solicitado através de depósito.",True,Missing Product / Item
+58c427813af4e8722408cb28fb39a4b0,a0c1b0545665f839199e53177bc639f7,3,"Não recebi o produto comprado, por falta de disponibilidade. Inclusive estou no aguardo no ressarcimento do valor pago que já foi solicitado através de depósito.",True,Payment
+ac46b0fe470a167ae37f5ae054416e13,0725ad25260ef550bc00be1179252efe,1,Entrega incompleta Comprei duas unidades e só recebi uma,False,No Clear Complaint
+129e42c8d3e47ea566f6d23b38c90880,d579ab4fe27352cb09cfa39a9e4f25f4,1,"Relógio bonito, mas não é o mesmo da foto. o da foto tinha calendário o que me foi entregue não tinha e veio com o ponteiro quebrado!",True,Product Not Received
+129e42c8d3e47ea566f6d23b38c90880,d579ab4fe27352cb09cfa39a9e4f25f4,1,"Relógio bonito, mas não é o mesmo da foto. o da foto tinha calendário o que me foi entregue não tinha e veio com o ponteiro quebrado!",True,Missing Product / Item
+129e42c8d3e47ea566f6d23b38c90880,d579ab4fe27352cb09cfa39a9e4f25f4,1,"Relógio bonito, mas não é o mesmo da foto. o da foto tinha calendário o que me foi entregue não tinha e veio com o ponteiro quebrado!",True,Product Damage / Defect
+7d30f2b012baed50af3a8348f416b802,862aee1420df82c0e95e06c154aef9ce,1,"A manta é uma porcaria não vale nada, é pior que as mantas do Brás. Nunca comprei um produto tão ruim.",False,No Clear Complaint
+30942302c4d7fd02c50c5d64fa71845c,9d35749dad6abb761c340266c0c206cb,3,Satisfeito,False,No Clear Complaint
+16076b67965b62189564a16513d61100,4351879fb74d0a37b9c8dad7ba7e59de,2,O produto não foi entrgue anda e não recebíamos nenhum contato da Empresa justificando o motivo da não entrega do produto,True,Product Not Received
+16076b67965b62189564a16513d61100,4351879fb74d0a37b9c8dad7ba7e59de,2,O produto não foi entrgue anda e não recebíamos nenhum contato da Empresa justificando o motivo da não entrega do produto,True,Seller / Service Issue
+9795b5fb0094ddd06f7688dab1f5bb26,83fb83d45702e06d5d5ddbcfd0b8d2a0,1,NÃO COMPREM COM A LOJA Fiz o pedido em 30-04-2018 e paguei no mesmo dia o valor do produto. É até hoje 09-06-2018 (mais de um mês) não chegou o produto em minha residência. Vou ter que acionar o órgão competente.,True,Product Not Received
+9795b5fb0094ddd06f7688dab1f5bb26,83fb83d45702e06d5d5ddbcfd0b8d2a0,1,NÃO COMPREM COM A LOJA Fiz o pedido em 30-04-2018 e paguei no mesmo dia o valor do produto. É até hoje 09-06-2018 (mais de um mês) não chegou o produto em minha residência. Vou ter que acionar o órgão competente.,True,Seller / Service Issue
+9795b5fb0094ddd06f7688dab1f5bb26,83fb83d45702e06d5d5ddbcfd0b8d2a0,1,NÃO COMPREM COM A LOJA Fiz o pedido em 30-04-2018 e paguei no mesmo dia o valor do produto. É até hoje 09-06-2018 (mais de um mês) não chegou o produto em minha residência. Vou ter que acionar o órgão competente.,True,Payment
+66f3a5fb406fe58189a5a9611ca66dc9,8071d5ff8afc89569fae66a5d4df5e9f,1,Demorou demai a entrega 1 mes para entregar quando o przo dado foram 17 dias. nao gostei! Ainda estou esperando a entrega.,True,Late Delivery
+66f3a5fb406fe58189a5a9611ca66dc9,8071d5ff8afc89569fae66a5d4df5e9f,1,Demorou demai a entrega 1 mes para entregar quando o przo dado foram 17 dias. nao gostei! Ainda estou esperando a entrega.,True,Product Not Received
+ffcf9e1195c7657408b5bfce99f85358,ac7969ba0d14152429d747a51407abe4,3,Gosto muito de comprar pela internet principalmente sendo site da lannister,False,No Clear Complaint
+c6c40b1caf7e48b48b2ad47fa88cf78d,2777d11affc76c7163a6c3e0e739aa56,2,Entrega não foi completa,False,No Clear Complaint
+552e93fbf1f61cceb9d082c74e199d1b,4bc6bfbf65a140de5b9803eefad6ef41,2,a loja como sempre entrega no prazo mas o produto nao recomendo ele nao funcionou ate hoje e nao sei onde levar.,True,Late Delivery
+552e93fbf1f61cceb9d082c74e199d1b,4bc6bfbf65a140de5b9803eefad6ef41,2,a loja como sempre entrega no prazo mas o produto nao recomendo ele nao funcionou ate hoje e nao sei onde levar.,True,Product Damage / Defect
+552e93fbf1f61cceb9d082c74e199d1b,4bc6bfbf65a140de5b9803eefad6ef41,2,a loja como sempre entrega no prazo mas o produto nao recomendo ele nao funcionou ate hoje e nao sei onde levar.,True,Seller / Service Issue
+c5fd78541a0902a1180fac12a8129dc1,7ecd374aaadf068b768dd0552a8b5b0d,1,Demora na entrega.,True,Late Delivery
+09a8a3d401d914104dc06b9230471b09,f0685863a01cc11a10508d43e2131155,2,"Não me enviaram o produto, alegando que não o tinha no estoque. Não recebi o dinheiro de volta",True,Product Not Received
+09a8a3d401d914104dc06b9230471b09,f0685863a01cc11a10508d43e2131155,2,"Não me enviaram o produto, alegando que não o tinha no estoque. Não recebi o dinheiro de volta",True,Cancellation / Refund
+012902a4690846e0d3e1cb3a950a1bd0,cc9760bf7b5d5b74c4d1eb1ab6405b50,1,"Produto ainda não chegou Recebi um pacote com apenas um item do que comprei, estou com o recibo. O outro item não foi enviado e não consigo uma resposta do vendedor",True,Product Not Received
+012902a4690846e0d3e1cb3a950a1bd0,cc9760bf7b5d5b74c4d1eb1ab6405b50,1,"Produto ainda não chegou Recebi um pacote com apenas um item do que comprei, estou com o recibo. O outro item não foi enviado e não consigo uma resposta do vendedor",True,Seller / Service Issue
+4b5c451231161a48e45233299be44c7e,e1872a0261b0767b2c8a63400bfe505a,2,Eu comprei 2 unidades do papel de parede. Mas só Chegou 1 rolo. Como resolver essa situação m,False,No Clear Complaint
+0f6886b62a79b4a700b1ac10e560aaf9,afc652a59f20b96fbf7c8e5bb1a6c1f1,1,Não foi entregue até o momento .,True,Product Not Received
+598e47192d56e3c563011edfc2fad6b8,b11fba7d4e0cad817d24e2c77032fa0a,1,Não recebi o produto,True,Product Not Received
+d119c526d8e0fb640a895e41efd98eeb,6feadaaee762109cbc3bfaf93254fab9,1,Não entregou o produto e muito menos um reebolso,True,Product Not Received
+c8cebc0bbd0dd738f883d7a83139ca3e,75559e14f308f4ff08427c567ae0a370,1,Descumprimento de entrega em produto alimentício,False,No Clear Complaint
+51d9866e708dae57d952802b0fed78d3,752265739a6d8d671585c7b9c924b9d9,3,Muito bom Muito bom,False,No Clear Complaint
+852675513739215804a71ec1be5cfc40,c206348085f589eaf3bcd60a005bb15c,1,Não recebi o produto até agora.,True,Product Not Received
+119aaef30cb8bd3117b05485b5170d5b,35aba7f433d46b2f03caae475720adb0,1,Esperava um produto original e veio uma réplica de segunda categoria!,False,No Clear Complaint
+6ff582eacf68f54cf0b790fab3f54e33,9792283e8d46d73ee4a3d91fc3264a50,1,O produto consta como entregue mas nao recebi,True,Product Not Received
+de114582f787c7c30335c7e7ec1c90a4,88ce73cc24548143016810f81a9e53d4,1,"Comprei pela segunda vez e ainda não recebi, parceiro das Lojas lannister, não informa o cliente sobre emissão de NF e a entrega, tenho que ficar cobrando status do processo",True,Product Not Received
+de114582f787c7c30335c7e7ec1c90a4,88ce73cc24548143016810f81a9e53d4,1,"Comprei pela segunda vez e ainda não recebi, parceiro das Lojas lannister, não informa o cliente sobre emissão de NF e a entrega, tenho que ficar cobrando status do processo",True,Seller / Service Issue
+785828447e4ad5c62b47794ca3491803,019b8e16e30c8b9ad9bf87e039a27765,3,preço bom mas veio com defeito,True,Product Damage / Defect
+9d00b8fa555d61217ade36892c86ed97,f1fbfebcfeaeedc9470bfb15f569dbea,1,"Comprei um toner, mas, não funciona. Exijo que seja feita a troca",True,Product Damage / Defect
+b87652754bbfec9b4b8c94f13d710639,7b7aa18c12be9bec06ecb74c33609bcf,3,O produto é de ótima qualidade só que tive que buscar nos correios e não foi pra minha residência,True,Product Quality
+b87652754bbfec9b4b8c94f13d710639,7b7aa18c12be9bec06ecb74c33609bcf,3,O produto é de ótima qualidade só que tive que buscar nos correios e não foi pra minha residência,True,Shipping / Logistics
+2c95346184cc63f95c77f0253817a591,c0c1739aaf78cfa636a69c10519b9876,1,Produto de péssima qualidade,True,Product Quality
+b27ef0d4411afecb412876c2b0b24324,3a604ee4bab12dd296760f2295b74614,1,Primeiro marcaram uma data e nao cumpriram depois disseram ter dificuldade na entrega quando recebemos pelo menos 50 encomendas por dia,True,Product Not Received
+8fc663ed572dac85edc7b4f1aa77a67a,bd51fae4e79d90bca958267d6e6bee30,1,"Vende produto indisponível, não resolve o problema do cliente, não responde os e-mails.",False,No Clear Complaint
+62b36565e5025c868d505352627ff501,7af8ed2339bcf2d146c8ac50309f9555,3,A Película de vidro veio riscada é a capa carteira a qual acompanha não parece ser de couro.,False,No Clear Complaint
+34f9f4104bb645ecc862f071e0bcfe8a,ac00b2ff2ee93f4ac33b64cd6b656ab4,3,"Numeração muito pequena, o G parece um P!
+Quanto a loja, tudo de bom!",True,Seller / Service Issue
+6dea8d7864d737d5de938b3852468f04,9b8dce6896a07b137779350966e11e99,3,Ótima A mercadoria chegou até antes da data prevista !,False,No Clear Complaint
+8dae82a53c3c615263a881b747d45b3a,9917855d5e68773f7db62f2dbfc06f71,1,"Não recomendo, até o momento não recebi o produto.",True,Product Not Received
+e5ae2169da96eae916e3e8a52b851a5e,7f73858012ce32efed89439a20062df2,1,"Comprei 2 capas e 2 películas, mas recebi apenas 1 capa e 1 película.
+Entrei em contato com o atendimento do stark e estou aguardando uma solução.",True,Seller / Service Issue
+c2ed33bcbe7d48bdb67bc5a31bdb442e,8f13ca9482f62f69781a1141ebad41e9,1,Não recomendo Não recebi está demorando muito,True,Late Delivery
+c2ed33bcbe7d48bdb67bc5a31bdb442e,8f13ca9482f62f69781a1141ebad41e9,1,Não recomendo Não recebi está demorando muito,True,Product Not Received
+7a710f42c16f1263f7d0de02d1fa3341,697c9a80085fcb5f4532d540fbf73e43,1,Quero trocar Qútero fazer a troca e estádemorando muito,False,No Clear Complaint
+8bee9ea62a6f87dadb3548659afc1c76,24caac929f6281eb55ab38103cd821fa,1,"Com o titulo cobre leito imaginei que fosse um outro tipo de material.
+Isso parece um lençol com as capas de travessaeiro",False,No Clear Complaint
+13b9a2b0bb79c50c069eef47f3f48ef5,1adbc05f8bb9f7f40e1566992a9b5e8d,1,Veio faltando o carregado Veio tudo bem embalado antes do prazo mas veio faltando o carregador,True,Missing Product / Item
+13b9a2b0bb79c50c069eef47f3f48ef5,1adbc05f8bb9f7f40e1566992a9b5e8d,1,Veio faltando o carregado Veio tudo bem embalado antes do prazo mas veio faltando o carregador,True,Packaging
+78869498cf4fa18c659a978c8d2399cb,afa2c425be2efd14c19b4a0aa62f9b59,1,Não recebi o produto e empresa informa que recebi.,True,Product Not Received
+c35614fbb7ff784817adf30a78e25490,2c1a2f921c5be4edef5b3cc5f8e79477,3,"Nossa.... Nunca comprei algo nas lannister que demorasse tanto..... Pensei em desistir. Mas de qualquer forma, o relógio é bom",True,Late Delivery
+eac98c8a96cf5eaf9a39353e59a53b7f,d6cb7abec3164d194483906f3702748a,1,Atrasou,True,Late Delivery
+31fdfb92519b089358fd768540cd7f4e,842784b3b697f1dbb51781a20352709a,1,Só foi dado como indisponível muito tempo depois da compra e eu deixei de comprar com outra na promoção também mais perdi acreditando que ja estava a caminho,False,No Clear Complaint
+172f7b6d686d828fde80e96705961576,03ba490d83feaba677aede829ff79db1,3,"Meu produto Bom dia, meu nome é Ana Paula Amancio, e ainda não recebi meu produto,. Peço que me dê uma posição , pois já faz muito tempo que comprei. Sei que devido a greve dos caminhoneiros tudo estava parado.",True,Product Not Received
+b035c46fcdf5795bf0cdae834d4f392f,a6ee9db107e8fd0fc14d99be85503396,1,Meu produto veio errado Meu produto veio errado outro modelo fui trocar não tem mais,True,Wrong Product
+f996e6cd3f27ea411ecb8f9f6a2c4a4e,1a7dcdf0c1f8c7b57dab8c7378c79cf9,3,"Eu sou cliente de vocês, esse produto foi entregue, no entanto minha outra encomenda está em atraso a 7 dias",True,Late Delivery
+987a9927ef4250095900ce236ea62a2b,aff7b4ae67c914f9555ed558c34e9a81,1,"O Pen drive que grava voz e vídeo chegou no prazo, porém está com defeito. Não está gravando nada. Mandei um email para a loja que enviou o produto é aguardando uma posição para resolução do problema.",True,Product Damage / Defect
+987a9927ef4250095900ce236ea62a2b,aff7b4ae67c914f9555ed558c34e9a81,1,"O Pen drive que grava voz e vídeo chegou no prazo, porém está com defeito. Não está gravando nada. Mandei um email para a loja que enviou o produto é aguardando uma posição para resolução do problema.",True,Seller / Service Issue
+2fb3b29dfeb69d80249fcefb5af0b278,e531f04ac27aac6bf0cba03986415776,1,"Produto quebrado!! Comprei um Troninho Musical, p/ a minha surpresa veio quebrado. Estou aguardando o retorno da loja para efetuar a troca. Infelizmente, existe muita dificuldade para entrar em contato com as lojas.",True,Product Damage / Defect
+2fb3b29dfeb69d80249fcefb5af0b278,e531f04ac27aac6bf0cba03986415776,1,"Produto quebrado!! Comprei um Troninho Musical, p/ a minha surpresa veio quebrado. Estou aguardando o retorno da loja para efetuar a troca. Infelizmente, existe muita dificuldade para entrar em contato com as lojas.",True,Seller / Service Issue
+1241d6377156a46c2fd60131f9e1e262,849e77f9701faf689705a0eb09003764,3,"produto muito ruim, moldagem fraca !!!!",False,No Clear Complaint
+ff77e689593e261a118f2227b72976f3,8d1bc6d158769393c1ec54c05b734652,2,Já sou cliente a um bom tempo e entendo o atraso mais esse deveria ser o diferencial os produtos já sabemos da qualidade exelente...,True,Late Delivery
+ff77e689593e261a118f2227b72976f3,8d1bc6d158769393c1ec54c05b734652,2,Já sou cliente a um bom tempo e entendo o atraso mais esse deveria ser o diferencial os produtos já sabemos da qualidade exelente...,True,Product Quality
+72d58a8858280c8a9d6a8eee6423a3d2,a367ad4d7ff8e706555cc31af6b40ecb,1,Comprei 2 cadeiras e recebi somente 1,False,No Clear Complaint
+e4622dfe033b8f7f5e409b5337351caa,dbc476d2e6faedcc009ae94aa8c2f8f7,1,"Não entregaram e disseram que iriam cancelar o meu pedido, mas até agora estou aguardando o cancelamento e a devolução do crédito",True,Product Not Received
+e4622dfe033b8f7f5e409b5337351caa,dbc476d2e6faedcc009ae94aa8c2f8f7,1,"Não entregaram e disseram que iriam cancelar o meu pedido, mas até agora estou aguardando o cancelamento e a devolução do crédito",True,Cancellation / Refund
+355348c5516887922bf4035cd9032d08,f9a4431b06162517b2bc2fbaf8f9645a,1,Não vou avaliar o que não Não recebi a panela,True,Product Not Received
+b62b86ff6108447c826efcf1b157168d,04c28d1572e04b2b3e5b80ca7559e750,1,"ENTRAGOU NO PRIMEIRO DIA ABRI PROTOCOLO PARA DEVOLUÇÃO, PRODUTO DE BAIXA QUALIDADE DEU PROBLEMA NO PRIMEIRO DIA DE USO.
+
+lannister VIROU UM MERCADO LIVRE....6 PEDIDOS 6 PROBLEMAS",True,Product Quality
+b62b86ff6108447c826efcf1b157168d,04c28d1572e04b2b3e5b80ca7559e750,1,"ENTRAGOU NO PRIMEIRO DIA ABRI PROTOCOLO PARA DEVOLUÇÃO, PRODUTO DE BAIXA QUALIDADE DEU PROBLEMA NO PRIMEIRO DIA DE USO.
+
+lannister VIROU UM MERCADO LIVRE....6 PEDIDOS 6 PROBLEMAS",True,Cancellation / Refund
+bdfc7b025c163a3aa5fc4fbb1386e9f2,849c91eae9d79b010c5dbba0d30e42fe,3,"Fiz o pedido,veio no prazo ,em boas condições,porém a cor pedida foi trocada.De toda forma,era uma segunda opção de cor que gosto ,então tudo bem!",False,No Clear Complaint
+33c73c273c59f565d58dbfcfeab2220a,fc84efe54b1182d71cf7b02d2d5828f5,1,Poderia entregar mais rapido,False,No Clear Complaint
+300fb117f254df8fae24581c43ae0d9b,5a854278109ac48d0a19b5a30590af27,3,"gente eu fiz o pedido de 3 bebedouro e so foi entregue um, tem outras entregue?",False,No Clear Complaint
+ee2198919fc8e34a16c6bc45cbab40c9,9f0b93157ce9331253cad4298ce6af61,1,"Quadro quebrado Infelizmente o meu quadro veio com a moldura quebrada, danificando a tela. Deu trabalho para concertar",True,Product Damage / Defect
+a492b3efc47eb9096c41de9d772cc4f3,b985389048e8bbb41d4993f4bd86f47f,1,Ainda não recebi,True,Product Not Received
+65766653cc8e1c576ce9467c3c01c38f,f2a634fd6829278af09d901f172f769f,3,Não gostei do material nem do acabamento.,True,Product Quality
+60f94367afe0dfb43a258543fa81a3f4,9bcfea969358b43046969a17bfa436b9,1,ao começar a usar o produto o mesmo apresentou defeito.,True,Product Damage / Defect
+3c513ec83f90fdf947962745e52e2acd,1d26a591feb074e4f4b71ead74c4e8dd,1,CONFORME TINHA MANDADO MENSAGEM ANTERIOR ESTOU MUITO INSATISFEITA COM O baratheon COMPREI O PRODUTO PRA DAR DE PRESENTE MEM NA DATA PREVISTA MIM ENTREGARAM AGUARDO RETORNO,False,No Clear Complaint
+117d4f0a2b811b6608554f76bf6c87ce,3e851df052741b8294183d372f0bf1a2,2,A loja entregou a quantidade errada do produto.,True,Seller / Service Issue
+162dabc4bb037d92a1497b3c2358038d,b8871d60cf4ec81490da7658b25c1c04,2,Não recomendo Produto com baixa qualidade e resistência.,True,Product Quality
+9e628acdf082a5eeea001b1ded5d94a1,54d744a4410b1edccc36c6d1f1c7e097,1,Eu preciso que vocês resolvam meu plobrema eu estou pagando uma máquina que não recebi já paguei duas parcelas.por favor mim de uma solução.,True,Product Not Received
+9e628acdf082a5eeea001b1ded5d94a1,54d744a4410b1edccc36c6d1f1c7e097,1,Eu preciso que vocês resolvam meu plobrema eu estou pagando uma máquina que não recebi já paguei duas parcelas.por favor mim de uma solução.,True,Payment
+dc3aaad68b58bce0ed4313eecb917694,e32090de3a5936c84fa211a2b22342ad,3,"Produto entregue dentro do prazo e sem problemas. A qualidade do produto não é boa, as camadas de espuma EVA foram coladas desalinhadas com a concha externa de ABS havendo sobra na parte frontal.",True,Product Quality
+fb7754a572dc6779cd15cd6a1c7aad75,5a5f3655d1d2c0a31d9ad1eee421ce81,3,"Sou cliente e essa é a primeira vez que houve problemas, até o momento não recebi a mercadoria.
+Aguardo retorno urgente!!",True,Product Not Received
+483c9a84d77551a8a8c45c6ec5d5cc75,dccb282b858f9b481824964de4cda528,1,"Insatisfação total. Paguei o produto prontamente, depois de quase um mês recebi a mensagem que o produto estava indisponível.",True,Payment
+a0b7b8341d904f0ce5a3c432e0ca3747,9d01fa0e65583ec53f3864ee0e73d015,2,A loja não cumpri prazo estipulado.,True,Seller / Service Issue
+c18c1117f0770f13052b51e8d4154719,36d66e5aaee3603567da9352fb165017,1,"Recebi apenas o isqueiro zippo o balm, blend para barba de quase 100 reais ainda não recebi e consta como recebido. Como assim???
+- eu paguei pelo produto e quero receber.",True,Product Not Received
+c18c1117f0770f13052b51e8d4154719,36d66e5aaee3603567da9352fb165017,1,"Recebi apenas o isqueiro zippo o balm, blend para barba de quase 100 reais ainda não recebi e consta como recebido. Como assim???
+- eu paguei pelo produto e quero receber.",True,Payment
+1a7b7992cd3a8c0b55becb9cafbf5244,80aa51679b1fef5a66ee92a688e44fa3,1,Não recebi o produto,True,Product Not Received
+969acced74b03ed005c80093d38451ea,2ec51579f21b9d6da3f417e7ccea378d,3,Bom Bom,False,No Clear Complaint
+5a4502a7144cd0fabb30da633bd92d6a,5b664e80ddc573f779bc4b33c7a457ea,1,Paguei frete em vão Paguei frete para que o produto fosse entregue e tive que retirar na agência do Correio!,True,Shipping / Logistics
+5a4502a7144cd0fabb30da633bd92d6a,5b664e80ddc573f779bc4b33c7a457ea,1,Paguei frete em vão Paguei frete para que o produto fosse entregue e tive que retirar na agência do Correio!,True,Payment
+403920bff16a185c2c754d6e8f31bb2e,d6ae19c6c065f3ba77f44eb583be611e,2,Não gostei dos objetos e quero devolvê-los. Achei o material muito frágil e até veio com um pequeno furo no courino.,True,Missing Product / Item
+403920bff16a185c2c754d6e8f31bb2e,d6ae19c6c065f3ba77f44eb583be611e,2,Não gostei dos objetos e quero devolvê-los. Achei o material muito frágil e até veio com um pequeno furo no courino.,True,Product Quality
+1767e15104171a94d5e00cdf2177f3bf,661620f1b2ab6bd136e9566f2188c215,1,"Fiz uma compra que constavam dois relógios . Só recebi um relógio muito fraco , nível de camelô, nem em caixa veio , dentro de um saco de tecido.",False,No Clear Complaint
+b2c926d8be40e25503a360a53078aea3,acd8818cd21fdfa62f891ceb60326435,3,"Boa Noite, nao consegui colocar a bandeja no triple, pois nao sei e nao veio manual como colocar e nao sei como instalar a bandeja no meio do triple, peço um manual de nstalar..Grata...Ilsa Duarte",True,Missing Product / Item
+d41bc69b8da365c6d0304eed88781cb2,84b9c4e0d6fa518c27bacb0b602b028c,3,"O material é excelente,simples,acabamento razoável,flexivel, entregue no último dia do prazo válido por 3 semanas. No entanto quero devolver o produto por não responder com a expectativa",True,Product Quality
+d41bc69b8da365c6d0304eed88781cb2,84b9c4e0d6fa518c27bacb0b602b028c,3,"O material é excelente,simples,acabamento razoável,flexivel, entregue no último dia do prazo válido por 3 semanas. No entanto quero devolver o produto por não responder com a expectativa",True,Seller / Service Issue
+63110aff99338ff359492eca2078be50,98ba8f657af33ed841528bcc38869816,2,Um pouco inferior ao que imaginava.,False,No Clear Complaint
+10b125dc8adff6897f03a8605c902a61,901db8b5147279a8318455a65fcd653e,1,"Já é o segundo email me perguntando se recebi o produto, uma vergonha, pois vcs nem sabem se entregaram.
+
+Não recebi nada e nem me contacataram para falar o motivo, apesar de eu ter reclamado divers",True,Product Not Received
+d0e64a92e085b179f0d779aae3e42336,fc8c929edfce9cac492eaf36ee0968b4,1,"ainda não entregaram meu produto, apenas o outros que avia comprado junto, mas o cabo HDMI NÃO foi entregue",True,Product Not Received
+2b36a1a19aa26b15b7abe258144f7613,e453260163d404cf3b07e977df27f993,3,Bom dia o único problema que eu tiver que busca o produto no correio só isso já é 3 vezes com vocês.,True,Shipping / Logistics
+c28606af2b2d900da36ab6d79cee5a43,f2b05b43011210214069c513de56b6b0,1,"Cadê meu produto? Acabou! A compra desse item me lembra uma música:
+""Não era amor era: C I L A D A""",False,No Clear Complaint
+1b8796fe8ade5766796c431039629dcd,b415a35a700ab8411988f58b4db6daf4,3,"Foi solicitado na cor tabaco, mas veio nas cores tabaco e verde, mas tá tranquilo...",False,No Clear Complaint
+29f4977670ebc945a61684ec7cc46278,477c5227ffdd6b36ff00bbc57f290874,2,Mercadoria,False,No Clear Complaint
+1d4f493b0fc2f3c19ff62dabc9504129,f76d5b8ea5928ea9b289b5f485e4846a,1,"Horrível, uma fraude!!!! Oferta falsa, não comprem !! Não entregam, não existe produto!",True,Product Not Received
+0ca1a90b6c0a5b78d588a5c4789805f6,9ac562006aa17a79364b32560651dd5b,1,"sempre compro nas lannister, mas me decpsionei essa vez .
+tive que buscar o produto nos correios e paguei pelo frete caro .
+foi alegado que não tinha ninguem em casa porem eu mesma estav de folga .",True,Shipping / Logistics
+0ca1a90b6c0a5b78d588a5c4789805f6,9ac562006aa17a79364b32560651dd5b,1,"sempre compro nas lannister, mas me decpsionei essa vez .
+tive que buscar o produto nos correios e paguei pelo frete caro .
+foi alegado que não tinha ninguem em casa porem eu mesma estav de folga .",True,Payment
+d7d53f841df29b980cc31927cd01e862,dc771d8720de3625596eb0b0fa043528,1,nao compro mais neste site,False,No Clear Complaint
+1f431f2a588ba1304c90b331e9dedc81,74fd3f19e82d4dc348cf34d3870605c1,3,eu me arrependo da compra gostaria de devolver o produto mais não estou conseguindo preciso de ajuda nao quero o produto quero meu dinheiro de volta,True,Cancellation / Refund
+6a66d7c99aaf61c0579a3237104e7168,9f6db5df970e4f6210f284243da63804,1,"Péssima loja, não entregou e e nunca me ligou para dar satisfação. Não recomendo e não compro nunca mais... Horrível...",True,Product Not Received
+6a66d7c99aaf61c0579a3237104e7168,9f6db5df970e4f6210f284243da63804,1,"Péssima loja, não entregou e e nunca me ligou para dar satisfação. Não recomendo e não compro nunca mais... Horrível...",True,Seller / Service Issue
+ea06213fafdcc76cc3bd0ce40cf5bb7d,95e6053477d7169c64e6a34a3e329cb7,1,Não recebi e foi cancelaf,True,Product Not Received
+ea06213fafdcc76cc3bd0ce40cf5bb7d,95e6053477d7169c64e6a34a3e329cb7,1,Não recebi e foi cancelaf,True,Cancellation / Refund
+bb070b2a6ef0d3bc13959c4b1b05bec9,9632facd8bd95315d63a23bf616d85b0,2,Veio faltando o bebê conforto,True,Missing Product / Item
+4dd61ebc167d48b78e08c7ea5909b5f2,139cef5540861404dd35fe65000fda2e,1,"Recomendo as lannister, mas o parceiro é péssimo. Enviou pelos Correios que costuma não verificar nada e encaminhar para a sede sem tentar entregar. Ainda mais nessa época do ano.",True,Product Not Received
+4dd61ebc167d48b78e08c7ea5909b5f2,139cef5540861404dd35fe65000fda2e,1,"Recomendo as lannister, mas o parceiro é péssimo. Enviou pelos Correios que costuma não verificar nada e encaminhar para a sede sem tentar entregar. Ainda mais nessa época do ano.",True,Shipping / Logistics
+f44b6dbf20f151171a738e166535ac7c,6a4ce4b6c9db497b72fc7446e987ffb7,1,Foi entregue somente uma das duas unidades do meu pedido.,False,No Clear Complaint
+7b36905f84d4f18f84aa570b0b54f0db,3a85e7db76d5fc41b9dadcb1d4e7a255,2,"Os quadros são de baixa qualidade.
+A resolução das imagens deixa muito a desejar.",True,Product Quality
+30db776c838bab79380fd706a0da24ef,ca836e631fd3b9408c19cf18ee331e08,3,O site não informou que os cartuchos da impressora HP que comprei eram remanufaturados. Pensei que estava comprando o produto novo original.,False,No Clear Complaint
+13d42b4e282c863da04b3d256e85fbea,83cbab9daaf549182de4705ab0ca54ed,1,"Recebi o produto errado, fiz o estorno e depois de um mês ainda não recei meu dinheiro de volta.",True,Wrong Product
+13d42b4e282c863da04b3d256e85fbea,83cbab9daaf549182de4705ab0ca54ed,1,"Recebi o produto errado, fiz o estorno e depois de um mês ainda não recei meu dinheiro de volta.",True,Cancellation / Refund
+395eb0e825826b3a7d4bb24950dcf482,779b6f84b404177ab8f8f5cfd0137216,1,estou tentando trocar este produto a qualidade é péssima..o kit segurança é para 14 anos..e indica que é infantil..meus filhos tem 6 anos..a estampa veio diferente do que mostra a imagem.,True,Product Quality
+a8b2ebaa07aacce35cdf3c6e49283a49,5770aa15c9085d967ec2a3ffe34b64f9,3,"gerou duvida A entrega veio dividida, sendo a primeira com nf do total, gerando dúvida, nos casos de dividir a entrega o ideal é avisar ao cliente",False,No Clear Complaint
+23a008b7ae9704e3b656a489d9da4681,9380c59012c11f49c549ef8dffef1367,1,Ruim Produto veio errado,True,Wrong Product
+8814aced12ca52aca682abcaa0c84c17,54066aeaaf3ac32e7bb6e45aa3bf65e4,1,Tive problema com a retirada do produto no correio. Assim o produto voltou a loja e estou aguardando se irão reenviar novamente.,True,Seller / Service Issue
+8814aced12ca52aca682abcaa0c84c17,54066aeaaf3ac32e7bb6e45aa3bf65e4,1,Tive problema com a retirada do produto no correio. Assim o produto voltou a loja e estou aguardando se irão reenviar novamente.,True,Shipping / Logistics
+22037e44a29af8bdc778f70a51e6a035,d9985b5e60fcad79a6e2eed78bafedf4,1,Não recebi o produto nem tenho notícias do mesmo.,True,Product Not Received
+a9eded9a5edbc7c84b3ab48629372ee6,a6b9f6bcd95a0ddbaa7194536b3cd00e,2,"Não faz sentido demorar 1 semana para postar, não tinham a mercadoria, então como pode vender uma mercadoria que não tem em estoque.",True,Late Delivery
+a8ccbd14bb411950b1ddcc0ae3481280,7c7dc1f3affc0d38b97ea22a8aeedb82,1,"Péssima entrega Recebi apenas o copo térmico personalizado, mas a placa decorativa não.",False,No Clear Complaint
+e3bd586d52198499ea9e33beb94ddcd8,70b7e94ea46d3e8b5bc12a50186edaf0,1,Eu pedi tudo na mesma loja para pagar só um frete. Só veio um produto de 3.,True,Seller / Service Issue
+e3bd586d52198499ea9e33beb94ddcd8,70b7e94ea46d3e8b5bc12a50186edaf0,1,Eu pedi tudo na mesma loja para pagar só um frete. Só veio um produto de 3.,True,Shipping / Logistics
+765e77727f9e2f992854535a9679952b,50dfd1d8502e5ef282d85dd49cee6db5,1,"Vendedor Horrivel O produto teve o pagamento aprovado 1 dia depois do pagamento, porem o vendedor esperou 6 dias depois para enviar faltando apenas 1 dia para vencer o prazo de entrega e o produto não chegou ainda.",True,Late Delivery
+765e77727f9e2f992854535a9679952b,50dfd1d8502e5ef282d85dd49cee6db5,1,"Vendedor Horrivel O produto teve o pagamento aprovado 1 dia depois do pagamento, porem o vendedor esperou 6 dias depois para enviar faltando apenas 1 dia para vencer o prazo de entrega e o produto não chegou ainda.",True,Product Not Received
+765e77727f9e2f992854535a9679952b,50dfd1d8502e5ef282d85dd49cee6db5,1,"Vendedor Horrivel O produto teve o pagamento aprovado 1 dia depois do pagamento, porem o vendedor esperou 6 dias depois para enviar faltando apenas 1 dia para vencer o prazo de entrega e o produto não chegou ainda.",True,Missing Product / Item
+765e77727f9e2f992854535a9679952b,50dfd1d8502e5ef282d85dd49cee6db5,1,"Vendedor Horrivel O produto teve o pagamento aprovado 1 dia depois do pagamento, porem o vendedor esperou 6 dias depois para enviar faltando apenas 1 dia para vencer o prazo de entrega e o produto não chegou ainda.",True,Seller / Service Issue
+765e77727f9e2f992854535a9679952b,50dfd1d8502e5ef282d85dd49cee6db5,1,"Vendedor Horrivel O produto teve o pagamento aprovado 1 dia depois do pagamento, porem o vendedor esperou 6 dias depois para enviar faltando apenas 1 dia para vencer o prazo de entrega e o produto não chegou ainda.",True,Payment
+6fa81c696fb520a54a1344a755b9e09e,ad829c3ec314b40679b5cf05f1f27025,1,A gente só compra porque se ilude pensando que está comprando na lannister. Quando descobre que é com parceiros é tarde. Esse negócio de parceiros deve acabar.,True,Late Delivery
+748bceb2d47f389666460f7ddab1977a,1dd7e8d1a469f3ce26f8c5c93ce9e636,1,"não recebi o produto, horrível o atendimento!",True,Product Not Received
+748bceb2d47f389666460f7ddab1977a,1dd7e8d1a469f3ce26f8c5c93ce9e636,1,"não recebi o produto, horrível o atendimento!",True,Seller / Service Issue
+b3b5de8de0875c0892dac314f06748de,81539e7eb97d9fba708603ac8f00b6c9,1,Péssima Não comprem desta loja! Tentei fazer o cancelamento da compra por 5 vezes e só fui atende depois de ter recusado a entrega do Correio.,True,Product Not Received
+b3b5de8de0875c0892dac314f06748de,81539e7eb97d9fba708603ac8f00b6c9,1,Péssima Não comprem desta loja! Tentei fazer o cancelamento da compra por 5 vezes e só fui atende depois de ter recusado a entrega do Correio.,True,Seller / Service Issue
+b3b5de8de0875c0892dac314f06748de,81539e7eb97d9fba708603ac8f00b6c9,1,Péssima Não comprem desta loja! Tentei fazer o cancelamento da compra por 5 vezes e só fui atende depois de ter recusado a entrega do Correio.,True,Shipping / Logistics
+b3b5de8de0875c0892dac314f06748de,81539e7eb97d9fba708603ac8f00b6c9,1,Péssima Não comprem desta loja! Tentei fazer o cancelamento da compra por 5 vezes e só fui atende depois de ter recusado a entrega do Correio.,True,Cancellation / Refund
+46bafba3877fce82d2daf3c296e8f22e,93d8685fec4218f06bf202723dc1da52,1,"NAO RECEBI O PRODUTO E NEM O DINHEIRO DE VOLTA.
+PRECISO DE UMA SOLUÇÃO URGENTE SE NÃO TEREI QUE IR AO PROCON",True,Product Not Received
+46bafba3877fce82d2daf3c296e8f22e,93d8685fec4218f06bf202723dc1da52,1,"NAO RECEBI O PRODUTO E NEM O DINHEIRO DE VOLTA.
+PRECISO DE UMA SOLUÇÃO URGENTE SE NÃO TEREI QUE IR AO PROCON",True,Cancellation / Refund
+8fbe54506cfa06d2a2fb9ca7089574c3,39f72b79ba5e9b6b512b7fc2ba46a4a5,3,recomendo o produto,False,No Clear Complaint
+4a317fd181969db85d0cd7353d17150f,bf80d30d4654a34a647d0e5db84a5e2e,1,"comprei o cartucho canon como original, pela embalagem e por falta de informação de que era compatível, e recebi um cartucho compatível, que ao que tudo indica é recarragado. Não era isso que queria.",True,Packaging
+393cc719e725c2e682ed15fdbe1579dd,241a5c06b9d7d5cdc9df0d2157f5be9e,1,"Estou há mais de 30 dias para devolver este produto, solicitação que fiz no dia seguinte ao recebimento por notar que havia pedido produto errado. Já fiz duas solicitações de devoluçao e nada até hoje",True,Wrong Product
+393cc719e725c2e682ed15fdbe1579dd,241a5c06b9d7d5cdc9df0d2157f5be9e,1,"Estou há mais de 30 dias para devolver este produto, solicitação que fiz no dia seguinte ao recebimento por notar que havia pedido produto errado. Já fiz duas solicitações de devoluçao e nada até hoje",True,Cancellation / Refund
+df40fa92b61bc641eec28061fdec8ffe,9023f19129c14dadfacec1394f255de9,1,"O produto não é de boa qualidade.
+Estou arrependida em ter adquirido toalhas tão ruins. Estou acostumada com buddemeyer.
+Nao recomendo as toalhas citadas.",True,Product Quality
+af6e5c7d2a650b2a59b2cff62accf110,d83ba33f7128e7d87dd7709a58cd0a2e,3,Até o momento só tenho problema com marca Eletrolux.,False,No Clear Complaint
+a36ae1ce75318daff3ec9d9300aa0ecf,49db6a08de9b99d6d0237da803888c22,1,"Não recebi o produto, pedi pra reenviar e demoraram pra fazer o processo e me dar um retorno. Acabei desistindo e cancelando o pedido..",True,Late Delivery
+a36ae1ce75318daff3ec9d9300aa0ecf,49db6a08de9b99d6d0237da803888c22,1,"Não recebi o produto, pedi pra reenviar e demoraram pra fazer o processo e me dar um retorno. Acabei desistindo e cancelando o pedido..",True,Product Not Received
+a36ae1ce75318daff3ec9d9300aa0ecf,49db6a08de9b99d6d0237da803888c22,1,"Não recebi o produto, pedi pra reenviar e demoraram pra fazer o processo e me dar um retorno. Acabei desistindo e cancelando o pedido..",True,Cancellation / Refund
+ae4c3f4cbed615084ed65063fb45ca27,8aa454f4a1257f74aa178aba255e7cf7,3,Boa,False,No Clear Complaint
+fcec38a323a1120a152e2a6939692bae,dcae1a4fbc7d4b516388c70ee2cb9cd0,2,Achei o produto com acabamento ruim,True,Product Quality
+d394c1733de665414a3c1793d1563397,ef5cbfafea632f181983df020dee5199,2,"A embalagem do perfume não estava lacrada, ou seja, a caixa não estava revestida com o plástico que deveria envolvê-la, além disso, o nível do perfume no frasco estava visivelmente abaixo do normal.",True,Packaging
+1a9bfaf727ce12d738dd972a8cb35808,97b8a149d521ea9fbbbce767a458846e,1,Até agora só transtorno por causa desse produto.,False,No Clear Complaint
+f3391b83c48e1ff67d0f06f27d4f86b5,47a1cdc1ae52b80a3800fb4509e657e4,3,O produto veio errado,True,Wrong Product
+c0cac22b1f8c6ca9702d4b4cc557159b,5065dc0da187940cd74472e443c1ff65,3,Solicitei 220 volts e entregaram 110 volts. Desejo o envio das resistências 220 volts,False,No Clear Complaint
+313e0001fd476237683dbe4b126fa1c1,beeb8db71523294144ecc1d34cf40814,1,Demora do meus produtos já paguei parcela e nada de chegar,True,Late Delivery
+313e0001fd476237683dbe4b126fa1c1,beeb8db71523294144ecc1d34cf40814,1,Demora do meus produtos já paguei parcela e nada de chegar,True,Payment
+f22e960aa1892ea63e5924cc0b999186,8652f7789fe1585b439154b7ae0f4285,1,Não recebi o produto e nem reembolso,True,Product Not Received
+f22e960aa1892ea63e5924cc0b999186,8652f7789fe1585b439154b7ae0f4285,1,Não recebi o produto e nem reembolso,True,Cancellation / Refund
+278a8e511b5be7848071f47011c52c9b,c801ee070159af89f5ce2b8c03e9e032,2,Pagamos para a entrega ser feita em nossa residência e não para retirarmos nos Correios.,True,Shipping / Logistics
+f69452c80acfeaf36b3fbca2261e9d86,ad6ee9479111c0c9b69de241c98009df,1,O cheiro do produto e muito forte! Mas pelo preço não tenho do que reclamar!,False,No Clear Complaint
+459d0b27d6be17f93c37a5694b5e58a2,1982a20c2a9d116da964e488d59eebe7,1,PRODUTO NÃO CHEGOU DENTRO DO PRAZO INFORMADO,True,Product Not Received
+5484b689cb945cdb52af2029de96571d,b3e6486207807fc3780f9c802e5bbbc2,1,Perfume chegou com embalagem diferente sem o logotipo da savana. Com fragrância fraca de pouca duração. Não parace ser o original da savana . Não fiquei satisfeita.,True,Packaging
+9b2b141c491993f3165ea395cbe881fe,c3897336d5d3d5a54fd2203ee9483312,1,"Ruim A rede é inadequada pra criança, pois o risco de acidente é eminente.A rede é muito estreita difícil de colocar o bebê nela. Minha bebê de 5 meses caiu 2 vezes. Caiu emcima do colchão mas se assustou",False,No Clear Complaint
+05dde5cfdd635bff14d84de9225812a7,e19633c5f388df807021cded7372d3bc,1,"Recebi pulseira árvore dá vida vendida por Coçar Brasil com total defeito, sem galhos ,com furos , círculo amassado 
+Já reclamei muito e não há qualquer resposta
+Peço a troca pelo que foi divulgad",True,Product Damage / Defect
+05dde5cfdd635bff14d84de9225812a7,e19633c5f388df807021cded7372d3bc,1,"Recebi pulseira árvore dá vida vendida por Coçar Brasil com total defeito, sem galhos ,com furos , círculo amassado 
+Já reclamei muito e não há qualquer resposta
+Peço a troca pelo que foi divulgad",True,Seller / Service Issue
+7d86517626cb4c964698a945af493f18,d19eb4960a7c6f0146582f3cc7b46d43,2,"Faltando produto Recebi apenas o kit com capas para travesseiro, não recebi a capa de lençol.",True,Product Not Received
+7d86517626cb4c964698a945af493f18,d19eb4960a7c6f0146582f3cc7b46d43,2,"Faltando produto Recebi apenas o kit com capas para travesseiro, não recebi a capa de lençol.",True,Missing Product / Item
+33d8d9edc82ba1063c7ea04932f674b4,303b11889a7c5232f208a70be31e8ea0,3,PRODUTO DIFERENTE A PELICULA ANUNCIADA É DE VIDRO E VEIO DE SILICONED,False,No Clear Complaint
+aacf6f81f78d28d3b1da243e211605c4,fb66173878dcc988e4e3e1151901b298,1,Quero saber quando receberei meu pedido.,False,No Clear Complaint
+6006de8846364de064fbcec805ec6a7d,f8f5a61defba49f13a7e21a369026f04,1,"Não tenho informações nenhuma do meu pedido, se vou recebe-lo ou o problema que aconteceu. Não consigo contato para essas devidas informações.",True,Product Not Received
+6006de8846364de064fbcec805ec6a7d,f8f5a61defba49f13a7e21a369026f04,1,"Não tenho informações nenhuma do meu pedido, se vou recebe-lo ou o problema que aconteceu. Não consigo contato para essas devidas informações.",True,Seller / Service Issue
+ca6a4886877c4bcec847859c0e3596cb,4244bb7994cdcf8c2a63651b4fba924c,1,"Cancelei o produto e ainda não obtive retorno quanto ao estorno em meu cartão, muito pelo contrário, veio a cobrança do mesmo!",True,Missing Product / Item
+ca6a4886877c4bcec847859c0e3596cb,4244bb7994cdcf8c2a63651b4fba924c,1,"Cancelei o produto e ainda não obtive retorno quanto ao estorno em meu cartão, muito pelo contrário, veio a cobrança do mesmo!",True,Payment
+ca6a4886877c4bcec847859c0e3596cb,4244bb7994cdcf8c2a63651b4fba924c,1,"Cancelei o produto e ainda não obtive retorno quanto ao estorno em meu cartão, muito pelo contrário, veio a cobrança do mesmo!",True,Cancellation / Refund
+0b616ec02228c8cc779c8ce8fad9440a,affcfd3067c168967157abe801a3c4ec,2,"Estou aguardando o produto ate hoje desde o dia 17/02 e ainda nao chegou. nao consigo falar com um atendente, preciso resolver essa situação.",True,Product Not Received
+16561345af89c9e66c13a051f4f15d65,00b676b01c289cc661c6f7732492771a,3,O kit comprado tinha 8 módulos e só vieram 7. Mandei um e mail para o fornecedor e até agora não obtive resposta.,True,Seller / Service Issue
+5a61a9f35bdb41a247718ae2484867cf,7fc930983a4062abd3407e7d6a0141a5,1,a Entrega não foi realizada.,False,No Clear Complaint
+c89e318fa70de6cfca1f4c76e463c10d,83d8eb18982d706a86805eb80e12e88f,2,Ruim Não recomendo a referida loja,True,Seller / Service Issue
+cb0be945f6fc5315d0d30fafe0f9153a,5acf78c509b083a69d8dd05a63a17185,1,eu so queria saber porque ate hoje ainda nao recebir o meu produto esta demorando de mais era dia 9 e te hoje nada. por isso nao recomento nao,True,Late Delivery
+cb0be945f6fc5315d0d30fafe0f9153a,5acf78c509b083a69d8dd05a63a17185,1,eu so queria saber porque ate hoje ainda nao recebir o meu produto esta demorando de mais era dia 9 e te hoje nada. por isso nao recomento nao,True,Product Not Received
+fa810fdb06c8ca30b4b596a6f5a13aa1,29fe4737eeefc4e09a905f66b9b8989c,1,Meu produto n chegou entao n vou falar nada,False,No Clear Complaint
+d6731a57e34fb13976b8c84fdae2c4e7,87e81e96bb33e3163f7f8ed4123b6787,2,"Gosto de comprar na lannister mais esta entrega deixou a desejar, um produto tao simples tao pequeno e fui obrigada buscar nos correios. e paguei por uma entrega em casa, foi mencionado que nao prime",True,Shipping / Logistics
+d6731a57e34fb13976b8c84fdae2c4e7,87e81e96bb33e3163f7f8ed4123b6787,2,"Gosto de comprar na lannister mais esta entrega deixou a desejar, um produto tao simples tao pequeno e fui obrigada buscar nos correios. e paguei por uma entrega em casa, foi mencionado que nao prime",True,Payment
+472e01cfdf3721c957a1bc6c3ab75da4,2bb6b9ebbb0ae5423d46be8e62e09538,1,ficou faltando 02 luminarias como fica a entrega sendo que o pedido conta ok .,True,Missing Product / Item
+c0ab8f68921e5fa959c9ca288b0d5e52,075d1d2a3ac6d55e925dda5e2ad0c6fe,1,"Comprei 2 araras de roupas no dia 18/03 , no entanto no dia 04/04 recebi apenas 1 . Mas na nota estão me cobrando pelas duas.",False,No Clear Complaint
+4d3c61768eb47216ecf732bbbd8bef3c,cb4a79c1e6c9ae44302861e7602cc449,1,"Absurdo! Venderam o produto, paguei e, sem nenhuma explicação cancelaram a compra!!! Fiquei extremamente frustrado. Não volto a comprar nessa loja!!!",True,Seller / Service Issue
+4d3c61768eb47216ecf732bbbd8bef3c,cb4a79c1e6c9ae44302861e7602cc449,1,"Absurdo! Venderam o produto, paguei e, sem nenhuma explicação cancelaram a compra!!! Fiquei extremamente frustrado. Não volto a comprar nessa loja!!!",True,Payment
+4d3c61768eb47216ecf732bbbd8bef3c,cb4a79c1e6c9ae44302861e7602cc449,1,"Absurdo! Venderam o produto, paguei e, sem nenhuma explicação cancelaram a compra!!! Fiquei extremamente frustrado. Não volto a comprar nessa loja!!!",True,Cancellation / Refund
+ebd6fe59a49aff8223ce1d5cfe6a4592,f2e891dfdc747b73c508d7a5689e82bf,1,"o produto entregue não foi o mesmo que eu pedi, já notifiquei na mesma data e até então, não tive retorno de como proceder",False,No Clear Complaint
+9a35ad29ce157012faf12a1a5401c300,4074c8247a20a28ee6bedaa09cd94d76,1,"O produto demorou para sair da loja pelo menos 50 dias, se eu soubesse tinha comprado da china que viria mais rapido.",True,Late Delivery
+9a35ad29ce157012faf12a1a5401c300,4074c8247a20a28ee6bedaa09cd94d76,1,"O produto demorou para sair da loja pelo menos 50 dias, se eu soubesse tinha comprado da china que viria mais rapido.",True,Seller / Service Issue
+d7cbf05434eb13d1fd5a0dd207c165ec,8b08f0e729f58529ed03e763270f78d5,1,"O produto estava anunciado no site, mas não tinha no estoque. O dinheiro foi estornado para o meu cartão. Transtorno leve.",True,Payment
+86068b0b71f7842927799528606b8492,cb2fbc8c6e48dc4954fc8cb1034900f0,1,"Produto com defeito, entrarei em contato com o SAC para efetuar a troca",True,Product Damage / Defect
+86068b0b71f7842927799528606b8492,cb2fbc8c6e48dc4954fc8cb1034900f0,1,"Produto com defeito, entrarei em contato com o SAC para efetuar a troca",True,Seller / Service Issue
+aab4257a8882d1e7fd458291bed52fcc,b0e779f901eb8bbbc2e223a783dc46a1,2,Regular,False,No Clear Complaint
+8c2e0e9d398001e03cc832fb2a0e2046,1ab4ba2aaa118a756ac6f15764adb2ec,3,"Avaliação de pedido. Comprei um produto e não foi entregue sob alegação de que não havia mais no estoque.
+Em seguida o mesmo produto estava sendo propagado com um valor maior.resultado adquiri aquilo que não era meu plan",True,Product Not Received
+dc9f9fe5aa92c67a8b1457ed0b2111d1,033c0d8e5bce8110d7900e088c75389d,1,"arrependimento Solicitei o cancelamento antes da entrega, quero exercer meu direito de arrependimento, devolver o produto e receber meu dinheiro de volta. O site da stark dificulta o processo e não SAC",True,Cancellation / Refund
+19ed22e75cda5c3a833c906af9459f0c,2cc606fca85523eee5d51c8d9defe0a5,1,"Fui enganado Comprei um estetoscopio e a loja enviou apenas a nota fiscal. Nao chegou o produto. O correio confirmou q foi postado apenas um envelope de 10 gramas. E nao o estetoscopio
+Caso nao chegue processarei",True,Product Not Received
+19ed22e75cda5c3a833c906af9459f0c,2cc606fca85523eee5d51c8d9defe0a5,1,"Fui enganado Comprei um estetoscopio e a loja enviou apenas a nota fiscal. Nao chegou o produto. O correio confirmou q foi postado apenas um envelope de 10 gramas. E nao o estetoscopio
+Caso nao chegue processarei",True,Seller / Service Issue
+19ed22e75cda5c3a833c906af9459f0c,2cc606fca85523eee5d51c8d9defe0a5,1,"Fui enganado Comprei um estetoscopio e a loja enviou apenas a nota fiscal. Nao chegou o produto. O correio confirmou q foi postado apenas um envelope de 10 gramas. E nao o estetoscopio
+Caso nao chegue processarei",True,Shipping / Logistics
+6035b5360d50887471b8f12ae1beda70,02f0618d94e9aeeb35a81835fa5c64d7,1,Comprei e paguei por dois produtos iguais e só recebi um.,True,Payment
+6d27bb9cc292221e17c055cb27db588c,9a3492f3f18d2b5cf77e8ce369f84d80,1,produto não funciona,True,Product Damage / Defect
+7aabd84e0779cc2a2799866d363c80a9,ced41f3dceaa40cd6e2168c43527b29a,2,Achei q fosse mais resistente,False,No Clear Complaint
+f07d15619081c22425ac572655e7f25b,45639343ad340a0a092f8bc8788e051e,1,"Prezados;
+Até a presente data, o produto não me foi entregue. Gostaria de saber quais medidas a lannisters.com irá tomar, para que eu não fique no prejuízo. Foi minha 1ª compra (para testar) a loja.",True,Product Not Received
+f07d15619081c22425ac572655e7f25b,45639343ad340a0a092f8bc8788e051e,1,"Prezados;
+Até a presente data, o produto não me foi entregue. Gostaria de saber quais medidas a lannisters.com irá tomar, para que eu não fique no prejuízo. Foi minha 1ª compra (para testar) a loja.",True,Seller / Service Issue
+2104f309cc01b4e6b1b2858cf3fc3586,bd982aee32cd290fc0ecf05ec77c326b,1,"Comprei o telefone com o prazo de entrega para três dias úteis, que daria dia 09/08, e até agora nem sinal do produto. stark precisa repensar esses parceiros com quem anda trabalhando.",True,Late Delivery
+f25924d100cd9a430d943efe35460eba,9f792c846e897702e89fb06829be1b0b,1,Fiz um pedido com vários ítens os outros já chegaram e este AINDA NÃO CHEGOU NEM TEM COMO RASTREAR,True,Product Not Received
+4d1b80d7039721443a203e52398e8785,70a272d1c01754b91a8709ae7efe27be,1,zero uma das poltronas faltando os 04 pés palito,True,Missing Product / Item
+f1be2f937cfa422011ff7bfb3462be5e,91256287c54349812a38220b628d3c10,2,"Comprei um controle remoto para TV Sony, mas o mesmo não funcionou.",True,Product Damage / Defect
+1bda9a7017e002a3219616f235ce9c88,3fffdbcdd7ed6b3acdb0bdbc5c96df52,1,Vendeu um produto que não tinha e além disso cobrou e depois de um mês não entregou e nem deu satisfação,True,Product Not Received
+55698e73a4de33873edc3d522e9970e1,463270aee6f932c94319683e66e7e59d,1,"Não recebi o produto Uma loja que vende um produto que não tem em estoque ,e não dá resposta ao seu cliente.É uma loja de estelionato.Nunca recebi meu produto,resposta nenhuma e nem reembolso.",True,Product Not Received
+55698e73a4de33873edc3d522e9970e1,463270aee6f932c94319683e66e7e59d,1,"Não recebi o produto Uma loja que vende um produto que não tem em estoque ,e não dá resposta ao seu cliente.É uma loja de estelionato.Nunca recebi meu produto,resposta nenhuma e nem reembolso.",True,Seller / Service Issue
+55698e73a4de33873edc3d522e9970e1,463270aee6f932c94319683e66e7e59d,1,"Não recebi o produto Uma loja que vende um produto que não tem em estoque ,e não dá resposta ao seu cliente.É uma loja de estelionato.Nunca recebi meu produto,resposta nenhuma e nem reembolso.",True,Cancellation / Refund
+d0ff213bf2c41a67459788091947b6ad,973acb049a8228a556877e26fb30c06a,1,Satisfeito,False,No Clear Complaint
+c40a6b6e0181e5ec0d12cbc2e12c49d3,f3468d6a2c7586711e9952242898aad4,1,falta de produto e quebra Faltou 1 produto e os que recebi 1 veio quebrado,True,Missing Product / Item
+c40a6b6e0181e5ec0d12cbc2e12c49d3,f3468d6a2c7586711e9952242898aad4,1,falta de produto e quebra Faltou 1 produto e os que recebi 1 veio quebrado,True,Product Damage / Defect
+6b0fd9d7bea27ff9740eca8c6b94b179,3d76cc1cc5ebdd45a03c0b51f79d43b1,1,Não recebi o produto Relógio Feminino de Pulso Hello Kitty Infantil Adulto Rosa Bebê que veio faturado na NOVA junto com o Mp3 também da Hello Kitty.,True,Product Not Received
+6b0fd9d7bea27ff9740eca8c6b94b179,3d76cc1cc5ebdd45a03c0b51f79d43b1,1,Não recebi o produto Relógio Feminino de Pulso Hello Kitty Infantil Adulto Rosa Bebê que veio faturado na NOVA junto com o Mp3 também da Hello Kitty.,True,Missing Product / Item
+cb5703a973924cf4e5573c601f120d26,c8c684d11191f71210df7c6a22115def,1,"Reclamei a 4 dias q não recebi o produto e até agora não obtive resposta.quando ligo novamente vai pra 1 mensagem automática dizendo q já tem reclamação e vão resolver, nem consigo falar com atendente",True,Product Not Received
+cb5703a973924cf4e5573c601f120d26,c8c684d11191f71210df7c6a22115def,1,"Reclamei a 4 dias q não recebi o produto e até agora não obtive resposta.quando ligo novamente vai pra 1 mensagem automática dizendo q já tem reclamação e vão resolver, nem consigo falar com atendente",True,Seller / Service Issue
+96d5410332c9cf52b476c5ac753365d0,13f2f496cc080f4443dc54b93b75a968,3,Boa,False,No Clear Complaint
+95d27c1599269d6185b2df8523af1ee8,4fddd233c42ca366f24daa034b3adacf,1,"Apesar da grande demora para entrega, o produto que eu comprei nao chegou. Lojistica basica, porem nao foi cumprida com qualidade, pois o produto esta errado e eu continuo sem o produto que comprei",True,Late Delivery
+95d27c1599269d6185b2df8523af1ee8,4fddd233c42ca366f24daa034b3adacf,1,"Apesar da grande demora para entrega, o produto que eu comprei nao chegou. Lojistica basica, porem nao foi cumprida com qualidade, pois o produto esta errado e eu continuo sem o produto que comprei",True,Product Not Received
+95d27c1599269d6185b2df8523af1ee8,4fddd233c42ca366f24daa034b3adacf,1,"Apesar da grande demora para entrega, o produto que eu comprei nao chegou. Lojistica basica, porem nao foi cumprida com qualidade, pois o produto esta errado e eu continuo sem o produto que comprei",True,Wrong Product
+95d27c1599269d6185b2df8523af1ee8,4fddd233c42ca366f24daa034b3adacf,1,"Apesar da grande demora para entrega, o produto que eu comprei nao chegou. Lojistica basica, porem nao foi cumprida com qualidade, pois o produto esta errado e eu continuo sem o produto que comprei",True,Product Quality
+17fd8b577623e64e4b2dcce81f690abf,6f33b28ba717ec41a3d1e1901d492e05,1,"Até o momento não recebi meu produto. Tento entrar em contato com a Lojas lannister e não consigo. O site dos Correios, empresa contratada para a entrega, não atualiza o status da entrega desde dia 1",True,Product Not Received
+17fd8b577623e64e4b2dcce81f690abf,6f33b28ba717ec41a3d1e1901d492e05,1,"Até o momento não recebi meu produto. Tento entrar em contato com a Lojas lannister e não consigo. O site dos Correios, empresa contratada para a entrega, não atualiza o status da entrega desde dia 1",True,Seller / Service Issue
+17fd8b577623e64e4b2dcce81f690abf,6f33b28ba717ec41a3d1e1901d492e05,1,"Até o momento não recebi meu produto. Tento entrar em contato com a Lojas lannister e não consigo. O site dos Correios, empresa contratada para a entrega, não atualiza o status da entrega desde dia 1",True,Shipping / Logistics
+308c3273c838a730829277014a145388,fb662b5ba362e72d75d486ca4d29c9e4,1,Entendo que o produto nao chegou por motivo de greve doa correios.,True,Product Not Received
+308c3273c838a730829277014a145388,fb662b5ba362e72d75d486ca4d29c9e4,1,Entendo que o produto nao chegou por motivo de greve doa correios.,True,Shipping / Logistics
+79b9a335a89e27125cd81cc4c56a4f88,29779056b8e8e8dc45effacaef7b8470,1,"O produto veio com defeito, o toner está manchando demais os papeis, até parece que está no final da impressão.",True,Product Damage / Defect
+e6a114e25c3dfbb9ff0413fcb8386b53,48ccdeef5374f816e8e7112ce99c8076,3,"a nica coisa que tenho pra reclamar, é que demarcaram um imprevisto no trajeto, e no tive maiores esclarecimentos. fiquei preocupada, e nao tive atendimento de ninguem.",True,Seller / Service Issue
+33335ac59cb83888e4c9c337655205c7,e1d3f67ea81edae5f2975c2adb668b80,3,Veio apenas uma unidade. Porem na nf vieram as duas descritas. Quando vira a segunda unidade?,False,No Clear Complaint
+154511baf6f24a04b1083646f0953bac,ac8b3ecc5daa5b2d54a81b3ba337bf6f,1,comprei dois produtos so me entregaram um,False,No Clear Complaint
+45021d0f98478d3f99fb2b67db8db63e,df6340ee228a1f029c6341931763f177,1,"Fiquei bem chateado, estalou esperando meu produto até agora e fico sabendo que está em cancelamento do pedido.
+Queria muito o produto é agora estou triste e com uma má impressão da loja!",True,Seller / Service Issue
+45021d0f98478d3f99fb2b67db8db63e,df6340ee228a1f029c6341931763f177,1,"Fiquei bem chateado, estalou esperando meu produto até agora e fico sabendo que está em cancelamento do pedido.
+Queria muito o produto é agora estou triste e com uma má impressão da loja!",True,Cancellation / Refund
+f67f00fa65054a8b18c1b084a6f5cd0a,45fdf57d32ed70530cdf802610a331ce,3,Não recomendaria por causa do atraso na entrega.,True,Late Delivery
+f67f00fa65054a8b18c1b084a6f5cd0a,45fdf57d32ed70530cdf802610a331ce,3,Não recomendaria por causa do atraso na entrega.,True,Product Not Received
+08dd4e7efdf993d018ddae0a6db1f4c1,afa82d070bcac12eae0dd2f73d9debc8,2,Porém na foto tem três buchinhos e só veio 1..a foto confundi e o produto muito pequeno.,False,No Clear Complaint
+0fb0bf20c317375ea792e56277a6481b,dacf07b003ccc1ffbf3d890a402329f8,3,"É um cavelete bem prático, mas o acabamento deixa a desejar.",True,Product Quality
+919a174bdfae37dc93bc85ffad55fa51,2e6a1087eb563f7648142859dceb5d90,3,"o produto nãocondiz com a imagem, e a descrição. deixando muito a desejar.
+vale a pena? CONCERTEZA NÃO",False,No Clear Complaint
+6a7e2fa94b51b43cfdc8abcd178a3c12,5b5494339d3f8ae69e5527c481c75f80,1,"Recebi a boneca Gui Gui, mas a coqueteleira Frida não. Aguardo verificação e retorno.",False,No Clear Complaint
+6df44a385888f80408015d7e82267506,8ab08a832f16966f270a9bbffe395cfa,1,"Peço auxílio para resolver esse problema. Não recebi o produto até agora, depois de 2 meses do pedido. Aguardo retorno",True,Product Not Received
+a36305b4bc012045da8bac096a41cf27,ccb493a84cad1ba5ce523d205f00d987,3,Recomendo com restrições. Minha primeira compra veio incompleta. Parceiros da lannister devem prestar mais atenção ao separar os produtos.,False,No Clear Complaint
+11b54d6b032c22b3219b4c3030795d95,bfb022f17ef48196bf7cda1a9a437517,1,Produto com defeito.,True,Product Damage / Defect
+d8af7d6f9c30064ef82591515f589ef8,adaeda2bff57a2960eb4710347cbffa4,2,"Olá boa noite. Foi entregue apenas 1 travesseiro. Na minha compra são dois kits, no total de quatro travesseiros. Peço que verifique o erro e possa me dá uma resposta em breve.",True,Seller / Service Issue
+8b40afea38292b4a7389ecdaa9e4c5af,cba1b88e10f4504583b2b9750ac67e03,1,Pedi um produto que vinha com cabo para telefone Apple conforme imagem. Me enviaram um sem o cabo e com um cabo pirata para Samsung! Ridículo!,False,No Clear Complaint
